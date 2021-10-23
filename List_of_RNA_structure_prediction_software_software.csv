@@ -1,0 +1,11 @@
+,Name,Description,Link,References
+0,PseudoViewer,Automatically visualizing RNA pseudoknot structures as planar graphs.,webapp/binary,[203][204][205][206]
+1,RNA Movies,browse sequential paths through RNA secondary structure landscapes,sourcecode,[207][208]
+2,RNA-DV,"RNA-DV aims at providing an easy-to-use GUI for visualizing and designing RNA secondary structures. It allows users to interact directly with the RNA structure and perform operations such as changing primary sequence content and connect/disconnect nucleotide bonds. It also integrates thermodynamic energy calculations including four major energy models. RNA-DV recognizes three input formats including CT, RNAML and dot bracket (dp).",sourcecode,[209]
+3,RNA2D3D,"Program to generate, view, and compare 3-dimensional models of RNA",binary,[210]
+4,RNAstructure,RNAstructure has a viewer for structures in ct files. It can also compare predicted structures using the circleplot program. Structures can be output as postscript files.,sourcecode,[211]
+5,RNAView/RnamlView,Use RNAView to automatically identify and classify the types of base pairs that are formed in nucleic acid structures. Use RnamlView to arrange RNA structures.,sourcecode,[212]
+6,RILogo,Visualizes the intra-/intermolecular base pairing of two interacting RNAs with sequence logos in a planar graph.,web server / sourcecode,[213]
+7,VARNA,"A tool for the automated drawing, visualization and annotation of the secondary structure of RNA, initially designed as a companion software for web servers and databases",webapp/sourcecode,[214]
+8,forna,"A web based viewer for displaying RNA secondary structures using the force-directed graph layout provided by the d3.js visualization library. It is based on fornac, a javascript container for simply drawing a secondary structure on a web page.",webappfornac sourceforna source,[215]
+9,R2R,Program for drawing aesthetic RNA consensus diagrams with automated pair covariance recognition. Rfam uses this program both for drawing the human-annotated SS and the R-scape covariance-optimized structure.,source,[216]

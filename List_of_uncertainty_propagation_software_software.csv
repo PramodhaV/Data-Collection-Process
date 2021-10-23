@@ -1,0 +1,49 @@
+,Name,License,Programming language,Handles correlations?,Cross-platform?,Calculator?,Complex numbers calculation?,VISA data acquisition possible ?,Library?
+0,Abacus,Free,"C, Win32",Yes,No,Yes,,No,No
+1,ASUE,Free,Mathematica,No,Yes,Yes,,No,No
+2,App::ErrorCalculator,GNU GPL,Perl,No,,,,Yes,Library
+3,Chaospy,MIT,Python,Yes,Yes,Yes,,No,Library
+4,Colby College Uncertainty Calculator,Un­known,JavaScript,Yes,Yes,Yes,,No,No
+5,Dempster Shafer with Intervals (DSI) Toolbox,Free for private and academic use,MATLAB,No,Yes,,,,Library
+6,EasyVVUQ,GNU LGPL,Python,Yes,Yes,No,,No,Library
+7,Experimental Data Analyst (EDA),Proprietary,Mathematica,Yes,,No,,Yes,Library
+8,EPC: error-propagating calculator,GNU GPL,Perl,Yes,Yes,Yes,,,No
+9,ErrorCalc iPhone/iPad calculator app,Proprietary,Un­known,No,No,Yes,,No,No
+10,Error Propagation Calculator,Free,Python,Yes,Yes,Yes,,No,No
+11,FuncDesigner,BSD,Python,No,,Yes,,Yes,Library
+12,fussy,Free but copyrighted,C,Yes,No,Yes,,Yes,No
+13,GUM_MC,GNU GPL,Lazarus,Yes,Yes,Yes,,No,
+14,GUMsim,Proprietary,Object Pascal (Delphi),Yes,No,Yes,,No,No
+15,GUM Tree Calculator (GTC),"Proprietary, freeware single-user, nontransferable",Python,Yes,No,Yes,Yes,No,No
+16,GUM Workbench,Proprietary,Object Pascal (Delphi),Yes,,Yes,,No,No
+17,Gustavus Adolphus error propagation calculator,GNU GPL,Un­known,No,No,Yes,,No,No
+18,gvar,GNU GPL,Python,Yes,Yes,Yes,No,No,Library
+19,laffers.net error propagation calculator,Creative Commons,JavaScript,No,Yes,Yes,,No,No
+20,LNE-MCM,Free,MATLAB,Yes,No,Yes,,No,No
+21,MCM Alchimia,Free,Object Pascal (Delphi),Yes,No,Yes,No,No,No
+22,Measurement Software Toolkit,"Proprietary, freeware noncommercial use","R, Excel plug-in",Yes,,Yes,,Yes,Library
+23,Measurements.jl,MIT,Julia,Yes,Yes,Yes,Yes,Yes,Library
+24,MonteCarloMeasurements.jl,MIT,Julia,Yes,Yes,Yes,Yes,Yes,Library
+25,metRology package for R,"Free, GPL",R,Yes,Yes,Yes,,No,Library
+26,MetroloPy,GNU GPL,Python,Yes,Yes,Yes,Yes,,Library
+27,MUSE,"Proprietary, freeware noncommercial use",C++,Yes,,Yes,,No,No
+28,METAS UncLib,"Proprietary freeware, no redistribution","C#, MATLAB wrapper and Python wrapper",Yes,Yes,Yes,Yes,No but you can use NI VISA for example.,Library
+29,NIST Uncertainty Machine,public domain,R,Yes,Yes,Yes,,Yes,No
+30,Number::WithError,GNU GPL,Perl,No,,No,,Yes,Library
+31,Uncertainty Calculator; Wilfrid Laurier University,Un­known,JavaScript,No,Yes,Yes,,No,No
+32,propagate,GNU GPL,R,Yes,Yes,No,,Yes,Library
+33,Risk Calc,Proprietary,C++,Yes,,Yes,,,No
+34,SCaViS,GNU GPL,"Java, Python",Yes,Yes,Yes,,Yes,
+35,soerp,BSD,Python,Yes,Yes,Yes,,Yes,Library
+36,S&T Missouri Uncertainty Calculator,Un­known,JavaScript,No,Yes,Yes,,No,No
+37,Uncertainty Calculator,Free for non-commercial use,JavaScript,Yes,Yes,Yes,,Yes,No
+38,QMSys GUM,Proprietary,Un­known,Yes,No,,,,No
+39,MC-Ed,Free,Object Pascal (Delphi),No,No,Yes,,No,No
+40,OpenCOSSAN,GNU GPL,MATLAB,Yes,Yes,No,,Yes,Library
+41,OpenTURNS,GNU LGPL,"C++, Python",Yes,Yes,No,,Yes,Library
+42,SmartUQ,Proprietary,C++,Yes,Yes,No,,No,
+43,uncertainties,BSD,Python,Yes,Yes,Yes,No,Yes,Library
+44,UQLab[4],BSD scientific modules. Free for academic use,MATLAB,Yes,Yes,Yes,,No,Library
+45,UQpy,MIT,Python,Yes,Yes,Yes,,,Library
+46,UncertaintyWrapper,BSD,Python,Yes,Yes,Yes,,Yes,Library
+47,MCM Alchimia,,Un­known,Yes,,,,,No

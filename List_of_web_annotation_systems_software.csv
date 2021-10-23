@@ -1,0 +1,13 @@
+,System,Notes,Date Discontinued
+0,Mosaic Browser,An early version of the Mosaic browser was tested with collaborative annotation feature in 1993[8] but never passed the test state.,Never passed the test state
+1,CritLink,"Perhaps the earliest web annotation system. Developed in 1997–98 by Ka-Ping Yee of the University of California.[9] CritLink worked as an HTML ""mediator"", hence not requiring additional software or browser extensions but having limited support for modern JavaScript-driven websites.",
+2,Annotea,"A W3C project that tried to establish a standard for web annotation. Annotea was conceived as part of the semantic web. According to the website, Annotea development stalled in October 2005.[10]",
+3,ThirdVoice,"A system launched in 1999. It was targeted by a campaign called Say No to TV,[11] led by independent web hosts which likened ThirdVoice to ""Web graffiti.""[12] It was shut in April 2001 because it couldn't generate enough advertising revenue to stay in business.[13]",April 2001
+4,Delicious,"Founded in 2003 and provided cloud bookmarks with optional descriptions (a form of annotation) of up to 1000 characters. It was rumoured that it would be shut down in 2010, but it was only actually finally shut down in 2017 when it was acquired by Pinboard, a competitor.",2017
+5,Wikalong,"A Firefox plugin created in 2004 that provided a publicly editable mediawiki page in the margin of any webpage. (It was later accessible in other browsers via a bookmarklet.) Common uses were note-taking and discussion about the website. On Google, the Wikalong margin provided a variety of useful tips and shortcuts for searching. The project was discontinued in 2009 when the storage wiki went offline. It had been suffering from link spam abuse.[14][15]",2009
+6,Fleck*,"Launched in 2005 with much publicity as a stick-it notes application for the web. A patent, funding and marketing didn't stop it from failing. Discontinued in 2010.[16]",2010
+7,stet,Stet was the Gplv3 comment system.[17],
+8,Crocodoc,"Launched in 2007, dabbled in web page annotation as part of its broader mission. It was originally developed in Adobe Flash. It was acquired by Box.com in 2013[18] and the web annotation side of it was shut down two years later.[19]",2009
+9,Blerp,"Launched in 2009. A multimedia, extensible tool for annotating web pages with widgets viewable by any other Blerp user.",
+10,Google Sidewiki,Launched in 2009. A part of Google Toolbar that allowed users to write comments alongside any web page. It was discontinued in December 2011.,December 2011
+11,SharedCopy,"An AJAX based web annotation tool that allowed users to mark-up, highlight, draw, annotate, cache, sticky-note and finally share any website.",

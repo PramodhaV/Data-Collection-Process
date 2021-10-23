@@ -1,0 +1,37 @@
+,Mail Server,DNSBL,SURBL,Spamtraps,Greylisting,SPF,DKIM,DMARC,Tarpit,Bayesian filters,Regular expressions,Embedded Antivirus,Embedded Antispam
+0,agorum core,No,No,No,No,No,No,No,No,No,Yes,No,No
+1,Apache James,?,?,?,?,?,?,?,?,Yes,?,Yes ClamAV[32],Optional (Apache SpamAssassin)
+2,Axigen,Yes,Yes[33],Yes,Yes,Yes,Yes,?,No,"Yes, in SpamAssassin",Yes,Yes CYREN,Yes CYREN
+3,Citadel,Yes,Yes,No,No,Optional (via SpamAssassin),?,?,No,Optional (via SpamAssassin),No,Optional (ClamAV),Optional (SpamAssassin)
+4,Courier Mail Server,Yes,?,Yes,Yes[34],Yes,Yes[35],Yes[36],Yes,Yes[34],Yes[34],Yes Clamav,Yes[34]
+5,Dovecot,?,?,?,?,?,?,?,?,?,?,?,?
+6,Eudora Internet Mail Server,Yes,?,Yes,Yes,?,?,?,?,?,?,?,?
+7,Exim,Yes,Yes,Yes,Yes,Optional at build time,Yes,Optional at build time,Yes,Optional with spamassassin etc.,Yes,Optional any,Optional any
+8,FirstClass,Yes,Yes,No,?,Yes,?,?,Yes,Yes,Yes,Yes Symantec,?
+9,Gordano Messaging Suite,Yes,Yes,Yes,Yes,Yes,?,?,Yes,Yes,Yes,"Yes CYREN, Authentium",Yes CYREN
+10,GroupWise,Yes,?,?,?,?,?,?,?,?,?,?,?
+11,Halon,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Optional (via SpamAssassin),Yes,"Optional (Sophos, ClamAV)","Optional (CYREN, SpamAssassin)"
+12,Haraka,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Optional with spamassassin etc.,Yes,"Optional ClamAV, AVG, any via plugins","Optional SpamAssassin, MessageSniffer"
+13,hMailServer,Yes,Yes,No,Yes,Yes,Yes,?,No,No,Yes,Yes ClamAV,Yes SpamAssassin
+14,IBM Notes,Yes[37],?,?,?,No[38],?,?,?,?,?,?,?
+15,IceWarp Mail Server,Yes,Yes,Yes,Yes,Yes,?,?,Yes,Yes,Yes,Yes,Yes
+16,Ipswitch IMail Server,Yes,Yes,No,No,Yes,Yes[39],Yes[40],No,Yes,Yes,"Yes Symantec, BitDefender",Yes CYREN
+17,Kolab,Yes,?,?,Yes,Yes,?,?,?,Optional with spamassassin etc.,Yes,Optional (via content filter interface),Optional (via content filter interface)
+18,Mailsite,Yes,Yes,Yes,Yes,Yes,?,?,No,Yes,Yes,Yes,Yes
+19,Mailtraq,?,?,?,?,?,?,?,?,?,?,?,?
+20,MDaemon,Yes,Yes (via SpamAssassin),Yes,Yes,Yes,Yes,Yes,Yes,Yes (via SpamAssassin),Yes (via Content Filter),"Optional Cyren, ClamAV",Yes SpamAssassin
+21,Mercury Mail Transport System,Yes,?,?,Yes (GreyWall extension),?,?,?,?,Yes (SpamHalter extension),?,Yes (ClamWall extension),?
+22,Microsoft Exchange Server,Yes (2003 & later),?,?,Yes,Yes,Optional (Signing only via 3rd Party Extensions),?,Yes (2003 & later),?,?,?,?
+23,NetMail,?,?,?,?,?,?,?,?,?,?,?,?
+24,OpenSMTPD,?,?,?,?,Yes,Yes[41],?,?,?,?,?,?
+25,Oracle Communications Messaging Server,Yes,Yes,Yes,Yes,Yes,?,?,Yes,Optional with spamassassin etc.,Yes,Optional any,Optional any
+26,Postfix,Yes,?,?,Yes,Yes,Optional[42],Optional[43],?,Optional with spamassassin etc.,Yes,Optional (via content filter interface),Optional (via content filter interface)
+27,qmail,?,?,?,Yes,?,?,?,?,No,?,No,No
+28,Scalix,Yes,Yes (via Scalix AntiSpam powered by Cyren or SpamAssassin),Yes (via Scalix AntiSpam powered by Cyren or SpamAssassin),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes (via Scalix ZeroHour AntiVirus powered by Cyren or ClamAV),Yes
+29,Sendmail,Yes,Yes (via milter/SA),?,Yes,Optional,Optional[42],Optional[43],?,Optional with spamassassin etc.,Yes,Yes ClamAV,Yes SpamAssassin
+30,SparkEngine,?,?,?,?,?,?,?,?,?,?,?,?
+31,UW IMAP,?,?,?,?,?,?,?,?,?,?,?,?
+32,WinGate,?,?,?,?,?,?,?,?,?,?,?,?
+33,Zarafa,External[14],External[14],External[14],External[14],External[14],External[14],External[14],External[14],External[14],External[14],External[14],External[14]
+34,Zimbra,Yes,Yes (via SpamAssassin),?,Yes (via Cluebringer Policy Daemon),Yes,Yes,?,Yes,Yes,Yes (partially),"Yes (via ClamAV, optionally any via Amavisd)",Yes (via SpamAssassin)
+35,Mail Server,DNSBL,SURBL,Spamtraps,Greylisting,SPF,DKIM,DMARC,Tarpit,Bayesian filters,Regular expressions,Embedded Antivirus,Embedded Antispam

@@ -1,0 +1,35 @@
+,Name,Description,Species,References
+0,FINDER,Automated software package to annotate eukaryotic genes from RNA-Seq data and associated protein sequences,Eukaryotes,[1]
+1,FragGeneScan,Predicting genes in complete genomes and sequencing Reads,"Prokaryotes, Metagenomes",[2]
+2,ATGpr,Identifies translational initiation sites in cDNA sequences,,[3]
+3,PRODIGAL,Its name stands for Prokaryotic Dynamic Programming Genefinding Algorithm. It is based on log-likelihood functions and does not use Hidden or Interpolated Markov Models.,"Prokaryotes, Metagenomes (metaProdigal)",[4]
+4,AUGUSTUS,Eukaryote gene predictor,Eukaryotes,[5]
+5,BGF,Hidden Markov model (HMM) and dynamic programming based ab initio gene prediction program,,
+6,DIOGENES,Fast detection of coding regions in short genome sequences,,
+7,Dragon Promoter Finder,Program to recognize vertebrate RNA polymerase II promoters,,
+8,EUGENE,Integrative gene finding,Eukaryotes,[6]
+9,FGENESH,"HMM-based gene structure prediction: multiple genes, both chains",Eukaryotes,[7]
+10,FRAMED,Find genes and frameshift in G+C rich prokaryote sequences,Prokaryotes,[8]
+11,GeMoMa,Homology-based gene prediction based on amino acid and intron position conservation as well as RNA-Seq data,,[9][10]
+12,GENIUS,Links ORFs in complete genomes to protein 3D structures,,
+13,geneid,"Program to predict genes, exons, splice sites, and other signals along DNA sequences",Eukaryotes,[11]
+14,GENEPARSER,Parse DNA sequences into introns and exons,,
+15,GeneMark,Family of self-training gene prediction programs,"Prokaryotes, Eukaryotes, Metagenomes",[12][13][14][15]
+16,GeneTack,Predicts genes with frameshifts in prokaryote genomes,Prokaryotes,[16]
+17,GENOMESCAN,Predicts locations and exon-intron structures of genes in genome sequences from a variety of organisms,,
+18,GENSCAN,Finds genes using Fourier transform,,[17]
+19,GLIMMER,Finds genes in microbial DNA,Prokaryotes,
+20,GLIMMERHMM,Eukaryotic gene-finding system,Eukaryotes,[18]
+21,GrailEXP,"Predicts exons, genes, promoters, polyas, CpG islands, EST similarities, and repeat elements in DNA sequence",,
+22,mGene,Support-vector machine (SVM) based system to find genes,Eukaryotes,[19]
+23,mGene.ngs,"SVM based system to find genes using heterogeneous information: RNA-seq, tiling arrays",Eukaryotes,[20]
+24,MORGAN,Decision tree system to find genes in vertebrate DNA,Eukaryotes,
+25,NIX,"Web tool to combine results from different programs: GRAIL, FEX, HEXON, MZEF, GENEMARK, GENEFINDER, FGENE, BLAST, POLYAH, REPEATMASKER, TRNASCAN",,
+26,NNPP,Neural network promoter prediction,,
+27,NNSPLICE,Neural network splice site prediction,,
+28,ORF FINDER,Graphical analysis tool to find all open reading frames,,
+29,Regulatory Sequence Analysis Tools,Series of modular computer programs to detect regulatory signals in non-coding sequences,,
+30,PHANOTATE,A tool to annotate phage genomes.,Phages,[21]
+31,Regulatory Sequence Analysis Tools,Series of modular computer programs to detect regulatory signals in non-coding sequences,,
+32,SPLICEPREDICTOR,Method to identify potential splice sites in (plant) pre-mRNA by sequence inspection using Bayesian statistical models,Eukaryotes,
+33,VEIL,Hidden Markov model to find genes in vertebrate DNA Server,Eukaryotes,

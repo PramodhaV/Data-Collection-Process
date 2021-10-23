@@ -1,0 +1,17 @@
+,Name,Latest version,Developer(s),Implementation language,Features,Features,Features,Features,Features,Features
+,Name,Latest version,Developer(s),Implementation language,Higher-order logic,Dependent types,Small kernel,Proof automation,Proof by reflection,Code generation
+0,ACL2,8.3,Matt Kaufmann and J Strother Moore,Common Lisp,No,Untyped,No,Yes,Yes[1],Already executable
+1,Agda,2.6.2,"Ulf Norell, Nils Anders Danielsson, and Andreas Abel (Chalmers and Gothenburg)",Haskell,Yes,Yes,Yes,No,Partial,Already executable
+2,Albatross,0.4,Helmut Brandl,OCaml,Yes,No,Yes,Yes,Un­known,Not yet Implemented
+3,Coq,8.13.2,INRIA,OCaml,Yes,Yes,Yes,Yes,Yes,Yes
+4,F*,repository,Microsoft Research and INRIA,F*,Yes,Yes,No,Yes,Yes[2],Yes
+5,HOL Light,repository,John Harrison,OCaml,Yes,No,Yes,Yes,No,No
+6,HOL4,Kananaskis-13 (or repo),"Michael Norrish, Konrad Slind, and others",Standard ML,Yes,No,Yes,Yes,No,Yes
+7,Idris,2 0.4.0.,Edwin Brady,Idris,Yes,Yes,Yes,Un­known,Partial,Yes
+8,Isabelle,Isabelle2021 (February 2021),"Larry Paulson (Cambridge), Tobias Nipkow (München) and Makarius Wenzel","Standard ML, Scala",Yes,No,Yes,Yes,Yes,Yes
+9,Lean,v3.4.2[3],Microsoft Research,C++,Yes,Yes,Yes,Yes,Yes,Un­known
+10,LEGO (not affiliated with Lego),1.3.1,Randy Pollack (Edinburgh),Standard ML,Yes,Yes,Yes,No,No,No
+11,Mizar,8.1.05,Białystok University,Free Pascal,Partial,Yes,No,No,No,No
+12,NuPRL,5,Cornell University,Common Lisp,Yes,Yes,Yes,Yes,Un­known,Yes
+13,PVS,6.0,SRI International,Common Lisp,Yes,Yes,No,Yes,No,Un­known
+14,Twelf,1.7.1,Frank Pfenning and Carsten Schürmann,Standard ML,Yes,Yes,Un­known,No,No,Un­known

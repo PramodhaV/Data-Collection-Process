@@ -1,0 +1,27 @@
+,Package Name,Pro Am,Interface,Connects to Online (e.g. VO) Data,Displays or Manip. FITS Images,Tiled Multi-Resolution All-Sky image Handling,Displays or Manip. Spectra,Handles Cubes (Volumes),Statistics?,OS,Has API,Cost,Suppt'd or Sold by,website,Currently Supported?
+0,glue,Pro,GUI and command line,Yes,Manipulates,No,Yes,Yes,"Basic, plus python terminal","Mac, Win, Linux",Yes,Free,"NASA (JWST), NSF",http://glueviz.org,Yes
+1,WorldWide Telescope,Pro/Am,GUI,Yes,Displays,TOAST,No,Limited,Limited (histograms),Browser,Yes,Free,American Astronomical Society (originally by Microsoft),http://worldwidetelescope.org/webclient,Yes
+2,Google Sky,Am,GUI,Yes,Displays,Mercator,No,No,No,Browser,Yes,Free,Google,https://www.google.com/sky/,No
+3,IRAF,Pro,GUI and command line,Yes,Display & Manipulates,No,Yes,Yes,Limited,"Mac, Linux",Yes,Free,NOAO,http://iraf.noao.edu,Yes
+4,ds9,Pro,GUI,Yes,Manipulates,No,Yes,Limited,Limited,"Mac, Win, Linux",No,Free,NASA,http://ds9.si.edu/site/Home.html,Yes
+5,js9,Pro,GUI,Yes,Manipulates,No,Yes,No,Limited,Browser,No,,NASA,https://js9.si.edu,Yes
+6,Aladin,Pro,GUI and command line,Yes,Displays & Manipulates,HiPS,No,Yes,Limited (histograms),"Mac, Win, Linux",yes (java plugins),Free,CDS,https://aladin.u-strasbg.fr/Desktop,Yes
+7,Aladin Lite,Pro/Am,GUI,Yes,Displays,HiPS,No,No,No,Browser,Yes,Free,CDS,http://aladin.u-strasbg.fr/AladinLite/,Yes
+8,ESASky,Pro/Am,GUI,Yes,Displays,HiPS,No,No,No,Browser,No,Free,ESA,http://sky.esa.int,Yes
+9,Starry Night (planetarium software),Am,GUI,No?,No,Yes,No,No,No,"Mac, Win",No,$,Simulation Curriculum Corp,http://www.starrynight.com/starry-night-7-professional-astronomy-telescope-control-software.html,Yes
+10,Legacy Survey Sky Browser,Pro/Am,GUI,Yes,Displays,Yes,No,No,No,Browser,No,Free,"NOAO, AURA",http://legacysurvey.org/viewer,Yes
+11,QFitsView,Pro,GUI and command line,No,Displays & Manipulates,No,Yes,Yes,Limited,"Mac, Win, Linux",No,Free,"Thomas Ott, MPE",http://www.mpe.mpg.de/~ott/dpuser/qfitsview.html,Yes
+12,Gaia Sky,Am,GUI and scripts,Yes,No,No,No,No,No,"Mac, Win, Linux",No,Free,ZAH,https://zah.uni-heidelberg.de/de/institute-des-zah/ari/gaia2/info-material-fuer-die-oeffentlichkeit-downloads/gaiasky/,Yes
+13,FITS Liberator,Pro/Am,GUI,No,Displays & Manipulates,No,No,No,No,"Mac, Win",No,Free,"ESA, ESO, NASA",https://spacetelescope.org/projects/fits_liberator/,Yes
+14,xTime,Pro,Utility,Yes,No,No,No,No,No,Browser,No,Free,NASA Goddard,https://heasarc.gsfc.nasa.gov/cgi-bin/Tools/xTime/xTime.pl,Yes
+15,wiseview,Pro/Am,GUI,Yes,Displays & Manipulates,No,No,No,No,Browser,No,Free,Dan Caselden and Paul Westin,http://byw.tools/wiseview,Yes
+16,Astropy,Pro,GUI and command line,Yes,Displays & Manipulates,Limited,Yes,Yes,Yes,based on python,Yes,Free,NumFOCUS,https://www.astropy.org/,Yes
+17,Lightkurve,Pro,GUI and command line,Yes,Displays & Manipulates,No,No,No,Yes,based on python,Yes,Free,Lightkurve collaboration,https://docs.lightkurve.org/,Yes
+18,Chirp,Pro,Alert Software,Yes,No,No,No,No,Yes,"Browser, Google Play, App Store",No,Free,"Aurore Simonnet, EPO Sonoma State University",http://chirp.sr.bham.ac.uk/,Yes
+19,TOPCAT,Pro,GUI and command line,Yes,Displays & Manipulates,Limited,Yes,Yes(?),Yes,"Mac, Win, Linux, Solaris",Yes,Free,Developed mostly in the UK,http://www.star.bris.ac.uk/~mbt/topcat/,Yes
+20,Space Engine,Am,GUI,No,No,No,No,No,No,"Mac, Win, Linux",No,$,Vladimir Romanyuk,http://spaceengine.org/,Yes
+21,Universe Sandbox,Am,GUI,No,No,No,No,No,No,"Mac, Win, Linux",No,$,Dan Dixon,http://universesandbox.com/,Yes
+22,Astrometry.net,Pro/Am,GUI,Yes,No,No,No,No,Yes,"Browser or Mac, Win, Linux",No,Free,"NSF, NASA & NRC",https://web.archive.org/web/20101015122353/http://www.astrometry.net/,Yes
+23,MIST,Pro,GUI,Yes,No,No,No,No,Yes,Browser,No,Free,"NSF, NASA & Packard Foundation",http://waps.cfa.harvard.edu/MIST/index.html,Yes
+24,Banyan Σ,Pro,GUI,Yes,No,No,No,No,Yes,"Browser, IDL code or python code",No,Free,Jonathan Gagné,http://www.exoplanetes.umontreal.ca/banyan/banyansigma.php,Yes
+25,OpenSpace,Am,GUI,No?,No,No,No,No,No?,"Mac, Win",No,Free,"NASA, Knut & Alice Wallenberg Foundation, AMNH",https://www.openspaceproject.com/,Yes

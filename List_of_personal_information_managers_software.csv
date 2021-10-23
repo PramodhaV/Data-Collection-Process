@@ -1,0 +1,21 @@
+,PIM application,Platform(s),Software license,Notes
+0,askSam,"DOS, Windows",Commercial,Free form database
+1,Backpack,Web,Commercial,Todo list and calendar
+2,Chandler,"Linux, OS X, Windows",Apache,Free form approach based on Lotus Agenda
+3,ClarisOrganizer,macOS,Commercial,"organized Events, Tasks, Notes, Contacts"
+4,Ecco Pro,Windows,Freeware,"organizes information via full power outline and tag assignments. (Tags can contain text, numeric, or date data. Date data automatically mapped to calendar.)"
+5,Google Notebook,Web,Freeware,"deprecated by Google Docs, Google Keep"
+6,Haystack,all operating systems with POSIX and Java,MIT,
+7,Hula,Linux,GPL,Replaced by Bongo project
+8,IBM Lotus Organizer,Windows,Commercial,2003–2013
+9,ideaList,"DOS, Windows, Mac",Commercial,Free form database
+10,Lotus Agenda,DOS,Freeware,deprecated by IBM Lotus Organizer
+11,Meeting Maker,"Linux, OS X, Solaris",Commercial,
+12,Microsoft Entourage,OS X,Commercial,deprecated by Microsoft Outlook for Mac
+13,"MORE, GrandView","Classic Mac OS, DOS",Commercial,1986–1990
+14,Mozilla Calendar Project,"Linux, BSD UNIX, OpenSolaris, Solaris, OS X, Windows, OS/2",MPL,deprecated by Lightning
+15,Mozilla Sunbird,"Linux, BSD UNIX, OpenSolaris, Solaris, OS X, Windows, OS/2","MPL, GPL, LGPL",deprecated by Lightning
+16,Now Up-to-Date & Contact,"Mac OS, Windows",Commercial,"Event, Task and Contact Organizer"
+17,Palm Desktop,"Mac OS, Windows",Commercial,
+18,Sidekick,"DOS, Windows",Commercial,1983–1999
+19,Spicebird,Cross-platform,"GPL, LGPL, MPL",deprecated by Lightning

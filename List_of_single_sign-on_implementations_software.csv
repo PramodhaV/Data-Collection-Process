@@ -1,0 +1,31 @@
+,Product Name,Project/Vendor,License,Identity management platform,Description
+0,Accounts & SSO,"Nokia, Intel,…",Free software,,Client-side implementation with plugins for various services/protocols
+1,Active Directory Federation Services,Microsoft,Proprietary,,Claims-based system and application federation
+2,Bitium,Bitium,Proprietary,,"Enterprise cloud-based identity and access management solution with single sign-on, active directory integration and 2-factor authentication options"
+3,CAS / Central Authentication Service,Apereo,Free & Open Source (Apache 2.0),,"Protocol and open-source SSO server/client implementation with support for CAS, SAML1, SAML2, OAuth2, SCIM, OpenID Connect and WS-Fed protocols both as an identity provider and a service provider with other auxiliary functions that deal with user consent, access management, impersonation, terms of use, etc. Licensed under Apache 2.0."
+4,CoSign single sign on,University of Michigan,Academic,,SSO for University of Michigan
+5,Distributed Access Control System (DACS),Distributed Systems Software,Free Software,,
+6,Facebook connect,Facebook,Proprietary,,Facebook SSO to third parties enabled by Facebook
+7,FreeIPA,Red Hat,Free Software,Yes,
+8,IceWall SSO,Hewlett-Packard Enterprise,Proprietary,,Web and Federated Single Sign-On Solution
+9,IBM Enterprise Identity Mapping,IBM,Free software,Yes,"Works with Kerberos (e.g. Active Directory) and other authentication mechanisms to map different identities and hence allow single signon to all IBM server platforms (Windows, Linux, PowerLinux, IBM i, i5/OS, OS/400, AIX) even when the user name differs."
+10,LTPA,IBM,Proprietary,,
+11,Imprivata OneSign,Imprivata,Proprietary,,
+12,Janrain Federate SSO,Janrain,Proprietary,Yes,Social and conventional user SSO
+13,JOSSO,JOSSO,Free Software,,Open Source Single Sign-On Server
+14,Keycloak (Red Hat Single Sign-On),Red Hat,Open source,Yes,"Federated SSO (LDAP and Active Directory), standard protocols (OpenID Connect, OAuth 2.0 and SAML 2.0) for Web, clustering and single sign on. Red Hat Single Sign-On is version of Keycloak for which RedHat provides commercial support."
+15,LoginRadius,LoginRadius Inc.,Proprietary,Yes,"Cloud-based Customer Identity and Access Management with User Registration, Social login, Federated SSO(SAML 1.1, Saml 2.0, Oauth2, JWT, Multipass, etc.), and Web single sign on."
+16,Microsoft account,Microsoft,Proprietary,,Microsoft single sign-on web service
+17,myOneLogin,VMware,Proprietary,,Cloud single sign-on
+18,NetIQ Access Manager,NetIQ,Proprietary,"Yes, used in conjunction with NetIQ Identity Manager","Access Management, Federation and Risk-Based Access Control platform"
+19,Numina Application Framework,Numina Solutions,Proprietary,Yes,"Single sign-on system for Windows (OpenID RP & OP, SAML IdP, and proprietary)"
+20,OneLogin,OneLogin Inc.,Proprietary,Yes,Cloud-based identity and access management with single sign-on (SSO) and active directory integration
+21,OpenAthens,Jisc,Proprietary,Yes,"Identity and access management solutions to IdPs and SPs enabling access management to web-based resources. Fully hosted service with several directory integration options, dedicated support team. Maintains OpenAthens Federation. SAML 1.1, SAML 2.0, SSO, self-reg, compatibility with Shibboleth, API."
+22,OpenAM,Open Identity Platform Community,CDDL,"Yes, used in conjunction with OpenDJ and OpenIDM","Access management, entitlements and federation server platform"
+23,Oracle Identity Management,Oracle Corporation,Proprietary,Yes,Identity and Access Management Suite of products from Oracle
+24,SecureLogin,NetIQ,Proprietary,,Enterprise Single-Sign-On
+25,Shibboleth,Shibboleth,Free & Open Source (Apache 2.0),,SAML-based open source access control
+26,Ubuntu Single Sign On,Canonical Ltd.,Proprietary,,OpenID-based SSO for Launchpad and Ubuntu services
+27,Univention Corporate Server,Univention,Free & Open Source,,Enterprise IAM with single sign-on using SAML
+28,WSO2 Identity Server,WSO2,Free & Open Source (Apache 2.0),Yes,"SAML 2.0, OpenID, OpenID Connect, OAuth 2.0, SCIM, XACML, Passive Federation"
+29,ZXID,ZXID,Free Software,Yes,Reference Implementation of TAS3 security

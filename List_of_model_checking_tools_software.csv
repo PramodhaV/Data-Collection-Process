@@ -1,0 +1,19 @@
+,Name,Model Checking,Model Checking,Model Checking,Equivalence checking,Equivalence checking,GUI,GUI,GUI,Availability,Availability,Availability
+,Unnamed: 0_level_1,"Plain, Probabilistic, Stochastic, ...",Modelling language,Properties language,Supported equivalences,Counter example generation,GUI,Graphical Specification,Counter example visualization,Software license,Programming language used,Platform / OS
+0,BLAST,Code analysis,C,Monitor automata,,Yes,No,No,No,Free,OCaml,Windows and Unix related
+1,CADP,Plain and probabilistic,"LOTOS, FC2, FSP, LNT","AFMC, MCL, XTL","SB, WB, BB, OE, STE, WTE, SE, tau*E",Yes,Yes,No,Yes,FUSC,"C, Bourne shell, Tcl/Tk, LOTOS, LNT","Mac OS, Linux, Solaris, Windows"
+2,CPAchecker,Code analysis,C,Monitor automata,,Yes,Yes,No,Yes,Free,Java,Any
+3,DREAM,Real-time,"C++, Timed automata",Monitor automata,,Yes,No,No,No,Free,C++,Windows and Unix related
+4,Java Pathfinder,Plain and timed,Java,unknown,,No,Yes,No,No,Open Source Agreement,Java,"Mac OS, Windows, Linux"
+5,LTSmin,"Plain, Real-time","Promela, μCRL, mCRL2, DVE Input Language, UPPAAL timed automata, Event-B, CSP, TLA+, Z, Petri net","μ-calculus, LTL, CTL*","SB, BB",Yes,No,No,No,Free,"C, C++","Unix, Mac OS X, Windows"
+6,mCRL2,"Plain, Real-time",mCRL2,μ-calculus,"SB, BB, t*E, STE, WTE",Yes,Yes,No,Yes,Free,C++,"Mac OS, Linux, Solaris, Windows"
+7,MRMC,"Real-time, Probabilistic",Plain MC,"CSL, CSRL, PCTL, PRCTL",SB,No,No,No,No,Free,C,"Windows, Linux, Mac OS"
+8,NuSMV,Plain,SMV input language,"CTL, LTL, PSL",,Yes,No,No,No,Free,C,"Unix, Windows, Mac OS X"
+9,PAT,"Plain,Real-time,Probabilistic","CSP#, Timed CSP, Probabilistic CSP","LTL, Assertions",,Yes,Yes,Yes,Yes,Free,C#,"Windows, other OS with Mono"
+10,PRISM,Probabilistic,"PEPA, PRISM language, Plain MC","CSL, PLTL, PCTL",,No,Yes,No,No,Free,"C++, Java","Windows, Linux, Mac OS"
+11,SPIN,Plain,Promela,LTL,,Yes,Yes,No,Yes,FUSC,"C, C++",Windows and Unix related
+12,TAPAAL,Real-time,"Timed-Arc Petri Nets, age invariants, inhibitor arcs, transport arcs",TCTL subset,,No,Yes,Yes,Yes,Free,"C++, Java","Mac OS, Windows, Linux"
+13,TAPAs,Plain,CCSP,"CTL, μ-calculus","SB, WB, BB, STE, WTE, me, ME, OE",Yes,Yes,Yes,Yes,Free,Java,"Windows, Mac OS and Unix related"
+14,UPPAAL,Real-time,"Timed automata, C subset",TCTL subset,,Yes,Yes,Yes,Yes,FUSC,"C++, Java","Mac OS, Windows, Linux"
+15,ROMEO,Real-time,"Time Petri Nets, stopwatch parametric Petri nets",TCTL subset,,Yes,Yes,Yes,No,Free,"C++, tcl/tk","Mac OS, Windows, Linux"
+16,TLA+ Model Checker (TLC),Plain,"TLA+, PlusCal",TLA,,Yes,Yes,Yes,No,Free,Java,"Mac OS, Windows, Linux"

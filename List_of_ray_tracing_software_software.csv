@@ -1,0 +1,55 @@
+,Software,License,Platforms,Platforms,Platforms,Platforms
+,Software,License,Windows,OS X,Linux,Other
+0,3Delight,Proprietary,Yes,Yes,Yes,No
+1,Amiga Reflections,Proprietary,No,No,No,Amiga
+2,Autodesk 3ds max,Proprietary,Yes,No,No,No
+3,Autodesk Maya,Proprietary,Yes,Yes,Yes,No
+4,Autodesk Softimage,Proprietary,Yes,No,Yes,No
+5,Anim8or,Freeware,Yes,No,No,No
+6,ASAP,Proprietary,Yes,No,No,No
+7,Blender,GPL,Yes,Yes,Yes,No
+8,Brazil r/s,Proprietary,Yes,No,No,No
+9,BRL-CAD,"BSD, LGPL",Yes,Yes,Yes,No
+10,Bryce,Proprietary,Yes,Yes,No,No
+11,Carrara,Proprietary,Yes,Yes,No,No
+12,Cheetah3D,Proprietary,No,Yes,No,No
+13,Cinema 4D,Proprietary,Yes,Yes,No,Amiga
+14,ExH reTORT exhsw.com/retort-ray-tracer/,Proprietary,Yes,No,No,No
+15,form•Z RenderZone Plus,Proprietary,Yes,Yes,No,No
+16,FRED,Proprietary,Yes,No,No,No
+17,FurryBall,Proprietary,Yes,No,No,No
+18,Gelato,Freeware,Yes,No,Yes,No
+19,Holomatix Rendition,Proprietary,Yes,Yes,Yes,No
+20,Houdini,Proprietary,Yes,Yes,Yes,No
+21,Imagine 3D,Proprietary,Yes,No,No,"Amiga, MS-DOS"
+22,Indigo Renderer,Proprietary,Yes,Yes,Yes,No
+23,Kerkythea,Freeware,Yes,Yes,Yes,No
+24,LightWave 3D,Proprietary,Yes,Yes,No,Amiga
+25,LuxCoreRender,GPLv3,Yes,Yes,Yes,No
+26,Manta Interactive Ray Tracer,MIT,No,Yes,Yes,No
+27,Maxwell Render,Proprietary,Yes,Yes,Yes,No
+28,McXtrace,GPL,Yes,Yes,Yes,No
+29,Mental ray,Proprietary,Yes,Yes,Yes,No
+30,MODO,Proprietary,Yes,Yes,No,No
+31,Octane Render,Proprietary,Yes,Yes,Yes,No
+32,OptiX,Proprietary,Yes,Yes,Yes,No
+33,Photopia Optical Design Software,Proprietary,Yes,No,No,No
+34,Picogen,GPLv3,Yes,No,Yes,No
+35,Pixar RenderMan,Proprietary,Yes,Yes,Yes,No
+36,Pixie,GPL,Yes,Yes,Yes,No
+37,POV-Ray,AGPLv3,Yes,Yes,Yes,
+38,Rayshade,"pre-gpl open source, gpl-like",Yes,Yes,Yes,Yes
+39,Radiance,BSD,Yes,Yes,Yes,No
+40,Realsoft 3D,Proprietary,Yes,Yes,Yes,"Amiga, IRIX (dropped)"
+41,Shade,Proprietary,Yes,Yes,No,No
+42,Sunflow,MIT,Yes,Yes,Yes,No
+43,Tachyon,GPL,No,Yes,Yes,No
+44,Terragen,Proprietary,Yes,Yes,No,No
+45,TracePro,Proprietary,Yes,No,No,No
+46,TurboSilver,Proprietary,No,No,No,Amiga
+47,V-Ray,Proprietary,Yes,Yes,Yes,No
+48,Visionaray[1],MIT,Yes,Yes,Yes,No
+49,Vue,Proprietary,Yes,Yes,No,No
+50,YafaRay,LGPL,Yes,Yes,Yes,No
+51,Zemax,Proprietary,Yes,No,No,No
+52,3DOptix,Free,Yes,Yes,Yes,Cloud

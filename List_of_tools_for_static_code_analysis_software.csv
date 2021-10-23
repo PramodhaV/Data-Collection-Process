@@ -1,0 +1,17 @@
+,Tool,Latest release,Free software,Duplicatecode,Notes
+0,Checkstyle,2020-01-26,Yes; LGPL,No,"Besides some static code analysis, it can be used to show violations of a configured coding standard. Duplicate code detection was removed[10] from Checkstyle."
+1,Coverity,2017-01-19,No; Proprietary,,"Coverity is a static analysis and Static Application Security Testing (SAST) platform that finds critical defects and security weaknesses in code as it’s written before they become vulnerabilities, crashes, or maintenance headaches."
+2,Eclipse,2017-06-28,Yes; EPL,No,"Cross-platform IDE with own set of several hundred code inspections available for analyzing code on-the-fly in the editor and bulk analysis of the whole project. Plugins for Checkstyle, FindBugs, and PMD."
+3,FindBugs,2015-03-06,Yes; LGPL,,"Based on Jakarta BCEL from the University of Maryland. SpotBugs is the spiritual successor of FindBugs, carrying on from the point where it left off with support of its community."
+4,Infer,2017-10-19,Yes; BSD with additio-nal patent clause,,"Developed by an engineering team at Facebook with open-source contributors. Targets null pointer exceptions, leaks, and thread safety issues."
+5,IntelliJ IDEA,2021-04-06,Yes; ASL 2,Yes,"A leading Java IDE with built-in code inspection and analysis. Plugins for Checkstyle, FindBugs, and PMD."
+6,JArchitect,2017-06-11,No; Proprietary,,"Simplifies managing a complex code base by analyzing and visualizing code dependencies, defining design rules, doing impact analysis, and by comparing different versions of the code."
+7,Jtest,2019-05-21,No; Proprietary,Yes,Testing and static code analysis product by Parasoft.
+8,LDRA Testbed,,No; Proprietary,,Analysis and testing tool suite.
+9,PMD,2020-10-24,"Yes; BSD, ASL 2, LGPL",Yes,A static ruleset based source code analyzer that identifies potential problems.
+10,RIPS,2019-01-07,No; Proprietary,,Language-specific source code analysis solution with many integration options for accurate detection of complex security and quality issues.
+11,Semgrep,2021-03-16 (0.43.0),Yes; LGPL v2.1,No,A static analysis tool that helps expressing code standards and surfacing bugs early. A CI service and a rule library is also available.
+12,Soot,2020-10-28,Yes; LGPL,,A language manipulation and optimization framework consisting of intermediate languages.
+13,Squale,2011-05-26,Yes; LGPL,,A platform to manage software quality.
+14,SourceMeter,2016-02-01,No; Proprietary,Yes,"A platform-independent, command-line static source code analyzer."
+15,ThreadSafe,2014-03-28,No; Proprietary,,A static analysis tool focused on finding concurrency bugs.

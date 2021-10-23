@@ -1,0 +1,14 @@
+,Name,Developer,Licensing,Maintained?,Runs on (OS),Target OS
+0,balenaEtcher,Balena,Apache License 2.0,Yes,"Linux, macOS, Windows",Linux
+1,DasBoot,SubRosaSoft,Freeware,No,macOS,macOS
+2,Fedora Media Writer,The Fedora Project,GNU GPL,Yes,"Linux, macOS, Windows",Linux
+3,GNU dd,"Paul Rubin, David MacKenzie, and Stuart Kemp[1]",Free software,Yes,Unix-like,Virtually anything
+4,LinuxLive USB Creator (LiLi),Thibaut Lauzière,GNU GPL v3,No,Windows,Linux
+5,remastersys,Tony Brijeski,GNU GPL v2,No[2],"Debian, Linux Mint, Ubuntu","Debian, Linux Mint, Ubuntu & their derivatives"
+6,Rufus,Pete Batard,GNU GPL v3,Yes,Windows,"DOS, Linux, Windows"
+7,SliTaz TazUSB,SliTaz,GNU GPL,Yes,SliTaz GNU/Linux,SliTaz GNU/Linux
+8,Ubuntu Live USB creator,Canonical Ltd,GNU GPL v3,Yes,"Ubuntu, Windows",Ubuntu
+9,UNetbootin,Geza Kovacs,GNU GPL v2+[3],Yes,"Linux, macOS, Windows","Arch Linux, CentOS, Fedora, Gentoo, Linux Mint, MEPIS, Mandriva, openSUSE, Slackware, Ubuntu; FreeBSD, NetBSD; FreeDOS"
+10,Universal USB Installer (UUI),Pendrivelinux,GNU GPL,Yes,Windows,many
+11,Ventoy,longpanda,GNU GPL v3+[4],Yes,"Linux, Windows","Linux, Windows, FreeBSD"
+12,Windows To Go,Microsoft,Proprietary,No,Windows,"Windows 8 or later, Enterprise edition"

@@ -1,0 +1,21 @@
+,Engine,Front-end/ installer,License,External access,Blind solving 360° (off line),Cloud access to nova.astrometry.net,MS-Windows,Linux (AMD64),Linux Raspberry PI (armhf),MacOS
+0,Astrometry.net,,GPL3+,command-line nova.astrometry.net,✓,✓,✓(Win10 Linux subsystem),✓,✓,✓
+1,,All sky solver (inc Astrometry.net installer),GPL3+,COM interface,✓,-,✓(Linux emulator Cygwin),-,-,-
+2,,ANSVR (inc Astrometry.net installer),GPL3+,API interface,✓,-,✓(Linux emulator Cygwin),-,-,-
+3,,Astrometry.net API lite (inc. installer),GPL3+,API interface,✓,-,✓(Win10 Linux subsystem),✓,-,-
+4,,Astrotortilla (inc. Astrometry.net installer),GPL3+,-,✓,-,✓(Linux emulator Cygwin),-,-,-
+5,,Cloudmakers (inc. Astrometry.net installer),GPL3+,?,✓,-,-,-,-,✓
+6,,StellarSolver,GPL3+,-,✓,-,✓,✓,?,✓
+7,ASTAP,,LGPL3+,command-line,✓,-,✓,✓,✓,✓
+8,PlateSolve2 v2.28,,Free to use,command-line,-,-,✓,-,-,-
+9,Regim,,Free to use,-,-,-,✓,✓,?,✓
+10,Siril,,GPL3+,-,-,-,✓,✓,✓,✓
+11,SIPS,,Free to use,-,-,-,✓,-,-,-
+12,XParallax viu,,"Free software, CC BY-NC-ND 4.0",-,-,-,✓,-,-,-
+13,Astrometrica,,Proprietary,-,-,-,✓,-,-,-
+14,Image Link,TheSkyX,Proprietary,-,✓,-,✓,✓,-,✓
+15,Observatory,,Proprietary,-,-,✓,-,-,-,✓
+16,PinPoint,,Proprietary,DLL,✓using ANSVR & Astrometry.net,✓,✓,-,-,-
+17,PixInsight,,Proprietary,-,-,-,✓,✓,-,✓
+18,PlateSolve3,,Proprietary,.NET,-,-,✓,-,-,-
+19,PRISM Pro,,Proprietary,-,✓,✓,✓,-,-,-

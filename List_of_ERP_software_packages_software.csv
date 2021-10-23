@@ -1,0 +1,21 @@
+,Name,Platform technology,Software license,Description,Countries of origin,Last stable release date
+0,Adaxa Suite,Java,GPL,Integrated ERP built on Adempiere/iDempiere,Australia,
+1,Adempiere,Java,GPL,Began as a fork of Compiere,Worldwide,2019-12 (3.9.3)
+2,Apache OFBiz,Java JavaScript FreeMarker Groovy XML,Apache License 2.0,Business solutions and applications framework from the Apache Software Foundation,Worldwide,2018 (16.11.04)
+3,Compiere,Java,GPL/Commercial,Acquired by Consona Corporation in June 2010,United States,2010 (3.3.0)
+4,Dolibarr,"JavaScript, PHP, MySQL or PostgreSQL",GPLv3,Web application (LAMP-based system) to manage small and medium entities,Worldwide,2021-09 (14.0.2)[1]
+5,Epesi,"PHP, MySQL",MIT license,A framework for building ERP/CRM applications,"Poland, United States",2017 (1.8.2)
+6,ERP5,"Python, JavaScript, Zope, or MySQL",GPL,Based on unified model for mid to large size organisations,Worldwide,2014 (5.5)
+7,ERPNext,"Python, JavaScript, MariaDB",GPL,ERP for small and medium-sized businesses,India,2021 August 1 (13.8.0)[2]
+8,HeliumV,Java,AGPL,ERP for small and medium-size businesses (initial focus has been electronic manufacturing),"Austria, Germany",2015[3]
+9,iDempiere,Java,GPLv2,OSGI + Adempiere,Worldwide,2019 (7.1)
+10,inoERP,"PHP, JavaScript, MySQL/Oracle 12c",MPL,Open source web based enterprise management system.,Singapore,2018-10 (0.7.2)
+11,intarS,Objective-C,IOSCL[a],Open source web based enterprise management system.,Austria,
+12,Kuali,Java,AGPL,ERP for higher education institutions,USA,
+13,LedgerSMB,"Perl, PostgreSQL",GPL,Double entry accounting and ERP system (2006 fork of SQL-Ledger),Worldwide,2021 October (1.9.1)
+14,metasfresh,"Java, JavaScript, PostgreSQL",GPL,"Integrated ERP, began as a friendly fork of ADempiere",Worldwide,Weekly stable release
+15,Odoo,"JavaScript, Python, PostgreSQL",LGPLv3/Commercial,Renamed from OpenERP,Worldwide,"October 2, 2020 (14.0)"
+16,SplendidCRM,"C#, Microsoft SQL",GNU AGPL,CRM based on Microsoft Stack (Microsoft IIS and Microsoft SQL Server),United States,2005
+17,SQL-Ledger,"Perl, PostgreSQL",GPL,Double entry accounting and ERP system,Canada,2020-01 (3.2.9)
+18,WebVella,"C#, PostgreSQL v.12",Apache License 2.0,Open source and free platform for creating business web applications,Worldwide,2020-09-10 (0.0.5)
+19,Tryton,"Python, PostgreSQL, GTK+, JavaScript",GPLv3,"Originally forked from TinyERP, cleaned-up code base with continuous update/migration path",Worldwide,2019 (5.4)

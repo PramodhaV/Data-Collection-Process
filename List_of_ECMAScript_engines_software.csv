@@ -1,0 +1,16 @@
+,vteJavaScript,vteJavaScript.1
+0,Code analysis,ESLint JSHint JSLint
+1,Supersets,JS++ Objective-J TypeScript
+2,Transpilers,AtScript Babel ClojureScript CoffeeScript Dart Elm Emscripten Google Closure Compiler Google Web Toolkit Haxe LiveScript Morfik Nim Opa PureScript Reason WebSharper
+3,Concepts,Client-side JavaScript library JavaScript syntax
+4,Debuggers,Chrome DevTools Firefox Inspector Komodo IDE Microsoft Edge DevTools Opera DevTools Safari Web Inspector
+5,Doc generators,JSDoc
+6,Editors (comparison),Ace Cloud9 IDE Atom CodeMirror Brackets Light Table PhpStorm Orion Visual Studio Visual Studio Express Visual Studio Code Visual Studio Team Services Vim
+7,Engines,Comparison of engines DOM support List of ECMAScript engines
+8,Frameworks,Comparison of JavaScript frameworks List of JavaScript libraries
+9,Related technologies,Ajax AssemblyScript asm.js Cascading Style Sheets Document Object Model HTML HTML5 JSON WebAssembly WebAuthn
+10,Package managers,npm
+11,Module bundlers,Webpack
+12,Server-side,Active Server Pages CommonJS Deno JSGI Node.js Wakanda
+13,Unit testing frameworks (list),Jasmine Jest Mocha QUnit
+14,People,Douglas Crockford Brendan Eich John Resig

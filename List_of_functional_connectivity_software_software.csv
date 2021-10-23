@@ -1,0 +1,21 @@
+,Name,Description,Programming language,Is part of / requires,Developer/Organization
+0,Brain Connectivity Toolbox[1],Graph-theoretical analyses of functional connectivity,Matlab,,"Department of Psychological and Brain Sciences, Indiana University"
+1,Brain Modulyzer [2],Explore Hierarchical Processes of the functional brain networks,Python,,"U.S. Dept. of Energy, Lawrence Berkeley National Laboratory"
+2,BrainNet viewer[3],Brain network visualization tool,Matlab,,"National Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University"
+3,Brainwaver[4],Brain connectivity extraction and analysis,R,waveslim,"Centre National de la Recherche Scientifique, GIPSA-lab [fr], University of Cambridge"
+4,C-PAC[5],Functional connectivity analysis pipeline,Python,,Child Mind Institute; Nathan Kline Institute; NYU Langone Medical Center
+5,CONN[6],Functional connectivity analysis and display tool,Matlab,SPM,"McGovern Institute for Brain Research, Massachusetts Institute of Technology: MIT"
+6,Connectome workbench,Visualization and discovery tool,Python,,"Child Mind Institute, Nathan Kline Institute, NYU Langone Medical Center"
+7,cPPI[7],Task-related functional connectivity analysis,Matlab,SPM,Monash Clinical and Imaging Neuroscience
+8,DCM[8],Dynamic Causal Modelling analysis,Matlab,SPM,"Wellcome Trust Centre for Neuroimaging, University College London"
+9,FATCAT[9],Functional and tractographic connectivity analysis,C,AFNI,"Scientific and Statistical Computing Core, National Institute of Mental Health: NIMH"
+10,FSFC[10],Seed-based functional connectivity analysis,Shell,FreeSurfer,Martinos Center for Biomedical Imaging
+11,Fubraconnex[11],Tool for visual analysis of functional connectivity,C,,Delft University of Technology
+12,GIFT[12],Independent component analysis,Matlab,,"Medical Image Analysis Lab, The Mind Research Network"
+13,gPPI[13],Task-related functional connectivity analysis,Matlab,SPM,University of Wisconsin Madison
+14,Graph Theoretic GLM Toolbox[14],Graph theory analysis and fMRI preprocessing pipeline,Matlab,,"Boston University School of Medicine, VA Boston Healthcare System"
+15,Graphvar[15],Graph-theoretical analysis tool,Matlab,,"Division of Mind and Brain Research, Charité Universitätsmedizin"
+16,MELODIC[16],Independent component analysis,C,FSL,"Functional Magnetic Resonance Imaging of the Brain Analysis Group, Oxford University"
+17,NIAK[17],Neuroimaging analysis library,"Matlab, Octave",,"Research Centre of the Montreal Geriatric Institute, University of Montreal"
+18,nilearn[18],Machine learning for Neuro-Imaging in Python,Python,,"INRIA Parietal Project Team, Neurospin, CEA Institute"
+19,REST[19],Resting-state functional connectivity analysis tool,Matlab,,"State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University"

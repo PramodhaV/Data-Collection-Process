@@ -1,0 +1,17 @@
+,Program,OPLS,AMBER,CHARMM,GAFF,MMFF,QVBMM,UFF,Comments
+0,Abalone,UA,"94, 96, 99SB, 03, GS, ii, Automatic FF generator[1]",No,No,No,No,UFF-Dreiding-like field,"For proteins, DNA, ligands"
+1,AMBER,Yes,Yes,Via chamber tool since v11,Yes,No,No,No,
+2,Ascalaph Designer,UA,"94, 99SB, 03",No,No,No,No,No,
+3,Avogadro,No,No,No,Yes,"94, 94s",No,Yes,
+4,Balloon,No,No,No,No,94,No,No,MMFF94-like
+5,BOSS,Yes,No,No,No,No,No,No,
+6,CHARMM,Yes*,Yes*,Yes*,Via CHARMM-GUI[2],"Full MMFF94, but code rumored unmaintained",No,No,* in standard distribution
+7,Gabedit,No,Yes,No,Yes,Yes,No,No,
+8,Gaussian mm utility,No,Yes,No,No,No,No,Yes,Dreiding field available
+9,GROMACS,Yes,Yes*,Yes*,Yes,No,No,No,* in standard distribution since v4.5.0
+10,MOE,AA,"89, 94, 99, also with Extended Hückel Theory","22, 27",No,94(s),No,No,
+11,NAMD,Yes,Yes,Yes,Yes,No,No,No,
+12,Q,Yes,Yes,Yes,No,No,No,No,For biopolymers
+13,Tinker,"UA, AA, AA/L","94, 96, 98, 99","19, 27",No,94,No,No,"For proteins, organic molecules"
+14,Towhee,"UA, AA",86,"19, 22, 27",No,94,No,Yes,Monte Carlo
+15,Yasara,No,"94, 96, 99, 03",No,No,No,No,No,Plus custom fields for hires refinement

@@ -1,0 +1,26 @@
+,Unnamed: 0,Unnamed: 1,CrushFTP,ProFTPD,Pure-FTPd,vsftpd
+0,,License type,proprietary,FLOSS/GPL,BSD,FLOSS/GPL2
+1,OS,Linux,Yes,Yes,Yes,Yes
+2,OS,Mac OS X,Yes,Yes,Yes,Yes
+3,OS,Unix,Yes,Yes,Yes,Yes
+4,OS,Windows,Yes,No,No,No
+5,User Interface,CLI,Yes,Yes,Yes,Yes
+6,User Interface,GUI integrated,Yes,No,No,No
+7,User Interface,GUI(s) separately,Yes,Yes,No,No
+8,User Interface,Web-based GUI,Yes,No,No,No
+9,Services,FTP,Yes,Yes,Yes,Yes
+10,Services,SFTP,Yes,Yes,No,No
+11,Services,FTPS,Yes,Yes,Yes,Yes
+12,Services,SCP,Yes,No,No,No
+13,Services,WebDAV,Yes,No,No,No
+14,Services,HTTP/HTTPS,Yes,No,No,No
+15,Services,AS2,Yes,No,No,No
+16,Authentication,LDAP,Yes,Yes,Yes,?
+17,Authentication,Active Directory,Yes,No,No,No
+18,Authentication,Local,Yes,Yes,Yes,Yes
+19,Authentication,Database,Yes,Yes,Yes,No
+20,High Availability,Failover Cluster(active/passive),Yes,No,No,No
+21,High Availability,Load Balancing(active/active),Yes,No,No,No
+22,Automation,Event-handling,Yes,Yes,?,?
+23,Automation,Scripting,Yes,Yes,No,No
+24,,,CrushFTP,ProFTPD,Pure-FTPd,vsftpd

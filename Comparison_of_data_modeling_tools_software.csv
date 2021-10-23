@@ -1,0 +1,13 @@
+,Tool,"Supported data models (conceptual, logical, physical)",Supported notations,Forward engineering,Reverse engineering,Model/database comparison and synchronization,Teamwork/repository
+0,Database Workbench,"Conceptual, logical, physical",IE (Crows feet),Yes,Yes,Update database and/or update model,No
+1,Enterprise Architect,"Conceptual, Logical & Physical + MDA Transform of Logical to Physical","IDEF1X, UML DDL, Information Engineering & ERD",Yes,Yes,Update database and/or update model,"Multi-user collaboration using File, DBMS or Cloud Repository (or transfer via XMI, CVS/TFS or Difference Merge)."
+2,ER/Studio,"Logical, physical, ETL","IDEF1X, IE (Crows feet)",Yes,Yes,Update database and/or update model,"ER/Studio Repository and Team Server (formerly Portal/CONNECT) for web based publishing collaboration and model management, with Business Glossary as standard."
+3,MagicDraw,"Conceptual, Logical & Physical + MDA Transform of Logical to Physical","IDEF1X, UML DDL, Information Engineering & ERD",Yes,Yes,Update database and/or update model,"Multi-user collaboration using File, DBMS or (transfer via XMI, CVS/TFS or Difference Merge)."
+4,MySQL Workbench,Physical,"IDEF1X, IE (Crows feet), UML, and more",Yes,Yes,Update database and/or update model,No
+5,Navicat Data Modeler,"Conceptual, Logical & Physical",IE (Crows feet),Yes,Yes,Update database and/or update model,No
+6,NORMA Object-Role modeling,"Conceptual (ORM), Logical, Physical","ORM, Relational(Crows feet option), Barker",Yes,Yes,Update database and/or update model,No
+7,Open ModelSphere,"Conceptual, Logical, physical","IDEF1X, IE (Crows feet), and more",Yes,Yes,Update database and/or update model,No
+8,Oracle SQL Developer Data Modeler,"Logical, physical","Barker, IE (Crows feet), and Bachman",Yes,Yes,Update database and/or update model,Yes
+9,PowerDesigner,"Conceptual, logical, physical","IDEF1X, IE (Crows feet), and more",Yes,Yes,Update database and/or update model,Yes
+10,Software Ideas Modeler,"Conceptual, logical, physical","IDEF1X, IE (Crows feet), UML and more",Yes,Yes,Update database and/or update model,Yes
+11,Toad Data Modeler,"Logical, physical","IDEF1X, IE (Crows feet), and more",Yes,Yes,Update database and/or update model,Yes

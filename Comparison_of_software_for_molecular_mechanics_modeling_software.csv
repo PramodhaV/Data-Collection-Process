@@ -1,0 +1,37 @@
+,Name,View 3D,Model builder,Min,MD,MC,REM,QM,Imp,GPU,Comments,License,Website
+0,AMBER[1],No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,"High Performance MD, Comprehensive analysis tools","Proprietary, Free open source",AMBER MD
+1,Abalone,Yes,Yes,Yes,Yes,Yes,Yes,I,Yes,Yes,"Biomolecular simulations, protein folding.","Proprietary, gratis, commercial",Agile Molecule
+2,ADF,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,"Modeling suite: ReaxFF, UFF, QM-MM with Amber and Tripos force fields, DFT and semi-empirical methods, conformational analysis with RDKit; partly GPU-accelerated","Proprietary, commercial, gratis trial",SCM
+3,Ascalaph Designer,Yes,Yes,Yes,Yes,Yes,Yes,I,Yes,Yes,"Molecular building (DNA, proteins, hydrocarbons, nanotubes), molecular dynamics, GPU acceleration",Mixed: free open source (GNU GPL) & commercial,Ascalaph Project
+4,Avogadro,Yes,Yes,Yes,No,No,No,I,No,No,"Molecule building, editing (peptides, small molecules, crystals), conformational analysis, 2D/3D conversion; extensible interfaces to other tools",Free open source GNU GPL,Avogadro
+5,BOSS,No,No,Yes,No,Yes,No,Yes,No,No,OPLS,Proprietary,Yale University
+6,CHARMM,No,Yes,Yes,Yes,Yes,I,I,Yes,Yes,"Commercial version with multiple graphical front ends is sold by BIOVIA (as CHARMm), formerly Accelrys.","Proprietary, commercial",charmm.org
+7,CHEMKIN,No,No,No,No,No,No,No,No,No,Chemical reaction kinetics.,Proprietary,CHEMKIN
+8,CP2K,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,"CP2K can perform atomistic and molecular simulations of solid state, liquid and biological systems.",Free open source GNU GPLv2 or later,CP2K
+9,Desmond,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,"High performance MD; has comprehensive GUI to build, visualize, and review results and calculation setup up and launch","Proprietary, commercial or gratis",D. E. Shaw Research Schrödinger
+10,Discovery Studio,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,"Comprehensive life science modeling and simulation suite of applications focused on optimizing drug discovery process: small molecule simulations, QM-MM, pharmacophore modeling, QSAR, protein-ligand docking, protein homology modeling, sequence analysis, protein-protein docking, antibody modeling, etc.","Proprietary, trial available",Dassault Systèmes BIOVIA(formerly Accelrys)
+11,fold.it,Y / I,Yes,Yes,Yes,Yes,Yes,I,No,No,"University of Washington and The Baker Labs; structure prediction, protein folding","Proprietary, commercial or gratis",fold.it download page
+12,FoldX,I,Yes,Yes,No,No,No,No,No,No,"Energy calculations, protein design","Proprietary, commercial or gratis",CRG
+13,GROMACS,No,No,Yes,Yes,No[2],Yes,I,Yes[3],Yes,High performance MD,Free open source GNU GPL,gromacs.org
+14,GROMOS,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Intended for biomolecules,"Proprietary, commercial",GROMOS website
+15,LAMMPS,Yes,Yes,Yes,Yes,Yes,Yes,I,Yes,Yes,Has potentials for soft and solid-state materials and coarse-grain systems,"Free open source, GNU GPLv2",Sandia
+16,MacroModel,Yes,Yes,Yes,Yes,Yes,No,I,Yes,No,"OPLS-AA, MMFF, GBSA solvent model, conformational sampling, minimizing, MD. Includes the Maestro GUI which provides visualizing, molecule building, calculation setup, job launch and monitoring, project-level organizing of results, access to a suite of other modelling programs.",Proprietary,Schrödinger
+17,MAPS[4],Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,"Building, visualizing, and analysis tools in one user interface, with access to multiple simulation engines","Proprietary, trial available",Scienomics
+18,Materials Studio,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,"Environment that brings materials simulation technology to desktop computing, solving key problems in R&D processes","Proprietary, trial available",Dassault Systèmes BIOVIA(formerly Accelrys)
+19,MBN Explorer[5] + MBN Studio,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,"Standard and reactive CHARMM force fields; molecular modeler (carbon nanomaterials, biomolecules, nanocrystals); explicit library of examples","Proprietary, free trial available",MBN Research Center
+20,MDynaMix,No,No,No,Yes,No,No,No,No,No,Parallel MD,Free open source GNU GPL,Stockholm University
+21,ms2,Yes,Yes,Yes,Yes,No,No,No,No,No,direct on the fly computation of large number of thermophysical properties. Main application of ms2 is on fluids.,Free open source,ms-2.de
+22,MOE,Yes,Yes,Yes,Yes,No,No,I,Yes,No,Molecular Operating Environment (MOE),Proprietary,Chemical Computing Group
+23,Orac,No,No,Yes,Yes,No,Yes,No,Yes,No,Molecular dynamics simulation program to explore free energy surfaces in biomolecular systems at the atomic level,Free open source,Orac download page
+24,NAMD + VMD,Yes,Yes,Yes,Yes,No,Yes,I,Yes,Yes,"Fast, parallel MD, CUDA","Proprietary, free academic use, source code",Beckman Institute
+25,NWChem,No,No,Yes,Yes,No,No,Yes,No,No,"High-performance computational chemistry software, includes quantum mechanics, molecular dynamics and combined QM-MM methods","Free open source, Educational Community License version 2.0",NWChem
+26,Protein Local Optimization Program,No,Yes,Yes,Yes,Yes,No,No,No,No,"Helix, loop, and side chain optimizing, fast energy minimizing",Proprietary,PLOP wiki
+27,Q,No,No,No,Yes,No,No,No,No,No,"(I) Free energy perturbation (FEP) simulations, (II) empirical valence bond (EVB), calculations of reaction free energies, (III) linear interaction energy (LIE) calculations of receptor-ligand binding affinities",Free open source GNU GPLv2 or later,Q
+28,SAMSON,Yes,Yes,Yes,Yes,No,No,Yes,No,No,"Computational nanoscience (life sciences, materials, etc.). Modular architecture, modules termed SAMSON Elements","Proprietary, gratis",SAMSON Connect
+29,Scigress,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,"MM, DFT, semiempirical methods, parallel MD, conformational analysis, Linear scaling SCF, docking protein-ligand, Batch processing, virtual screening, automated builders (molecular dynamics, proteins, crystals)",Proprietary,SCIGRESS.com
+30,Spartan,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,"Small molecule (< 2,000 a.m.u.) MM and QM tools to determine conformation, structure, property, spectra, reactivity, and selectivity.","Proprietary, free trial available","Wavefunction, Inc."
+31,TeraChem,No,No,Yes,Yes,No,No,Yes,No,Yes,"High performance GPU-accelerated ab initio molecular dynamics and TD/DFT software package for very large molecular or even nanoscale systems. Runs on NVIDIA GPUs and 64-bit Linux, has heavily optimized CUDA code.","Proprietary, trial licenses available",PetaChem LLC
+32,TINKER,I,Yes,Yes,Yes,Yes,I,I,Yes,Yes,Software tools for molecular design-Tinker-OpenMM[6] Software tools for molecular design-Tinker-HP[7],"Proprietary, gratis",Washington University
+33,Tremolo-X,I,No,Yes,Yes,No,No,No,No,No,"Fast, parallel MD",Proprietary,Tremolo-X
+34,UCSF Chimera,Yes,Yes,Yes,No,No,No,No,No,No,"Visually appealing viewer, amino acid rotamers and other building, includes Antechamber and MMTK, Ambertools plugins in development.","Proprietary, free academic use",University of California
+35,YASARA,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,"Molecular graphics, modeling, simulation",Proprietary,YASARA.org

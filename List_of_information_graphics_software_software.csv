@@ -1,0 +1,100 @@
+,Software,Example(s),Interface,Licence(s),Licence(s),Latest Release,Operating system,Distinguishing features
+,Software,Example(s),Interface,License,Open Source (yes/no),Latest Release,Operating system,Distinguishing features
+0,AIDA,,,LGPL,Yes,October 2003 / 3.2.1,,Open interfaces and formats for particle physics data processing
+1,Algebrator,,GUI,Proprietary,No,2009 / 4.2,"Linux, Mac OS X, Sugar, Windows",2D graphs
+2,Archim,drawing 2D and 3D graphs,,freeware,No,2008,Windows,Graphs in polar (or other) coordinates become specific cases of parametric graphs.
+3,Baudline,,GUI,Proprietary,No,"July 21, 2010 / 1.08","FreeBSD, Linux, Mac OS X, Solaris",Signal analysis tool
+4,D3js,,JavaScript library,BSD,Yes,"August 25, 2018 / 5.7.0","web browsers, js engines",static and dynamic presentations
+5,DADiSP,,"GUI, command line, SPL script language",Proprietary,No,"January 17, 2017 / 6.7 B02",Windows,Numerical analysis and signal processing with a spreadsheet-like interface
+6,DAP,,,GNU-style copyleft[1],Yes,"April 16, 2014 / 3.10",,Statistics
+7,Datacopia,,GUI (web based),Freemium,No,,"Windows, Linux, Mac, iOS, Android","Generates a ranked list of several plots & visualizations based on an analysis of the data provided, allowing the user to choose their favorite graphic, share it, and export it as an image."
+8,DataGraph,,"GUI, command line",Proprietary,No,"February 17, 2020 / 4.5.1",macOS,"2D graphing, animations, data analysis, linear and non-linear curve fitting."
+9,DataScene,,GUI,Shareware,No,March 2011 / 3.0.7,"Linux, Unix/X11, Windows","2D & 3D graphing, animated graphs, data analysis, curve fitting, and data monitoring."
+10,EditGrid,,GUI (web based),,,,Any (Web-based application),"Online spreadsheet; service due to end May 1, 2014"
+11,EJS,,GUI,GPL,Yes,,"Linux, Mac OS X, Windows","Creates ODE solving interactive, ready-to-publish Java applets"
+12,Epi Info,,,GPL,Yes,"February 2, 2018 / 7.2.2.6",Windows,Statistics
+13,EViews,,,Proprietary,No,"June 21, 2017 / 10",,Statistics
+14,Fityk,,"GUI, command line",GPL,Yes,"December 19, 2016 / 1.3.1","Linux, Mac OS X, Windows",specialized in curve fitting
+15,FlexPro,,,Proprietary,No,2017,MS Windows only,
+16,FreeMat,,,GPL[2],Yes,"June 30, 2013 / 4.2","Linux, Mac OS X, Windows",
+17,FusionCharts,,"GUI (web based), JavaScript Charting Library",Proprietary,No,"November 1, 2016 / 3.11.3","All Web Browsers (including IE 6), JS Engines","Interactive JavaScript Charts for your Web & Mobile applications. Get 90+ chart types and 965 maps, readymade business dashboards and demos."
+18,GeoGebra,,GUI,GPL with non-commercial restriction[3],Yes,"September 3, 2017 / 6.0.385.0","Linux, Mac OS X, Sugar, Windows, Android","Very good for rendering Geometry, Graphs, Statistical Diagrams, (LaTeX) Formula Rendering. All antialiased in PNG Export. Export to SVG, EPS, EMF, PNG, PDF."
+19,Gephi,,GUI,GPLv3 / CDDL 1.0,Yes,"February 14, 2016 / 0.9.1","Linux, Mac OS X, Windows","Networks and complex systems, dynamic and hierarchical graphs"
+20,ggplot2,,R,GPL2,Yes,"December 30, 2016 / 2.2.1",Cross-platform,"Based on ""The Grammar of Graphics"""
+21,Gnumeric,,GUI,GPL[4],Yes,"August 19, 2018 / 1.12.43",Cross-platform,Spreadsheet
+22,GNU Octave,,"GUI, command line, C, C++, Fortran",GPL,Yes,"August 9, 2018 / 4.4.1","FreeBSD, Linux, Mac OS X, OS/2 (including eComStation and ArcaOS), Solaris, Windows, Android","MATLAB compatible, built-in ODE and DAE solvers, extensive user contributed toolboxes"
+23,Gnuplot,,"Command line, Python, Ruby, Smalltalk, third-party GUIs",Own license,Yes,"June 4, 2018 / 5.2.4","Amiga, Atari ST, BeOS, Linux, Mac, MS-DOS, OS/2 (including eComStation and ArcaOS), OS-9/68k, Ultrix, Windows, VMS, Android",Built in scripting language
+24,GrADS,,command line,GPL,Yes,"April 25, 2018 / 2.2.1","Linux, Mac OS X, Windows, Solaris, IBM AIX, DEC Alpha, IRIX",Visualization of Earth science data
+25,GraphPad Prism,,GUI,proprietary,No,"October 12, 2016 / 7.0b","Mac, Windows",
+26,Grace,,"Command line, GUI, various APIs",GPL,Yes,"February 14, 2015 / 5.1.25","Linux, Mac(X11), Windows (cygwin)",Uses Motif; fork of Xmgr
+27,Graphviz,,DOT language,CPL,Yes,"December 25, 2016 / 2.40.1","Linux, Mac OS X, Windows",
+28,gretl,,GUI,GPL,Yes,"September 3, 2018 / 2018c","Linux, Mac, Windows","Specialized in econometrics and time series analyses, built-in scripting language, interface to gnuplot and R"
+29,HippoDraw,,,GPL v2,Yes,October 2007 / 1.21.3,,C++-based data analysis system
+30,IGOR Pro,,GUI,proprietary,No,"April 11, 2019 / 8.0.3","Mac, Windows","3D and volume visualization, Curve and peak fitting, Signal processing, Image processing"
+31,ILNumerics,,Math library for .NET / C#,GPL / proprietary,,"June 11, 2015 / v4.8",Windows and Linux,"Math library with rich visualization features (interactive 3D scenes, scientific plotting) and MATLAB-like syntax."
+32,Ipe,,"GUI, XML",GPL,Yes,"December 10, 2016 / 7.2.7","Linux, Mac, Windows, OS/X",IPE Graphics with LaTeX equations or notations can be stored as PDF files (not only exported to PDF) and be included in LaTeX documents. pdftoipe allows any PDF graph to be edited in Ipe.
+33,JFreeChart,,"GUI, Java, Groovy",LGPL,Yes,"November 5, 2017 / 1.5.0",Any (Java),
+34,JMP,,"GUI, scripting",proprietary,No,"March 9, 2021 / 16.0","Mac, Windows",Interactive statistical graphics
+35,KChart,,GUI,GPL,Yes,"March 21, 2017 / 3.0.1",Linux (KDE),
+36,Kig,,GUI,GPL,Yes,,,Geometry diagrams only
+37,LabPlot,,"GUI, Qt, C++",GPL,Yes,"October 24, 2019 / 2.7.0 July 29, 2020 / 2.8.0-beta","Linux (KDE), Windows, Mac OS X","2D plotting, suitable for creation of publication-ready plots but also for data visualization and exploration, data import from many formats(ASCII, binary, HDF5, FITS, JSON, etc.), export to vector and raster images, data analysis (nonlinear curve fitting in 2D, FFT, smoothing, integration and differentiation, etc.), digitizing of raster images, live data plotting, support for different CAS like Maxima, Octave, R, etc."
+38,LabVIEW,,,Proprietary,No,May 2017 / 2017,,Visual circuits modeling
+39,LiSiCA,,Python,,No,,"Windows, Linux",Ligand-based virtual screening software that searches for 2D and 3D similarities between a reference compound and a database of target compounds.
+40,MagicPlot,,GUI,Proprietary,No,"January 18, 2021 / 3.0",Any (Java),"Nonlinear fitting, batch processing"
+41,Maple,,"GUI, command line",Proprietary,No,"May 25, 2017 / 2017","Linux, Mac OS X, Windows",
+42,MathCad,,GUI,Proprietary,No,"March 6, 2017 / Prime 4.0, November 2015 / 15.0 M045",Windows,Simple GUI driven interface
+43,Mathematica,,"GUI, command line, C++",Proprietary,No,"12.3.1 (June 20, 2021; 3 months ago[±][5]","Linux, Mac OS X, Windows, Raspberry Pi[6]","Computer algebra, statistics and numerical analysis system with general graphic language. See Wolfram Language."
+44,MATLAB,,GUI,Proprietary,No,"September 20, 2017 / R2017b","Linux, Mac OS X, Windows",Matrix system
+45,Maxima,,"GUI, command line",GPL,Yes,"October 3, 2017 / 5.41.0","BSD, Linux, Mac OS X, Unix, Windows, Android","Various graphical user interfaces, Support LaTeX with GNU TeXmacs and Web frontend with SageMath"
+46,MayaVi,,"GUI, Python, scriptable, embeddable",BSD,Yes,"August 3, 2018 / 4.6.2","Linux, Mac OS X, Windows","Visualises computational grids, scalar/vector/tensor data. Texture & ray-cast mappers."
+47,MedCalc,,GUI,Proprietary,No,"August 17, 2017 / 17.9",Windows,Statistics
+48,Microsoft Excel,,GUI,Proprietary,No,,"Mac OS X, Windows",Spreadsheet
+49,NCSS (statistical software),,GUI,Proprietary,No,"May 2, 2016 / NCSS 11",Windows,Statistical Analysis and Statistical Graphics software
+50,Nucalc,,GUI,proprietary,No,,"Mac OS, Mac OS X, Windows",
+51,Numbers (iWork),,GUI,Proprietary,No,"March 28, 2017 / 4.1",Mac OS X,Spreadsheet
+52,OpenDX,,GUI,Proprietary,No,"January 19, 2006 / 4.4.0",Cross-platform,
+53,OpenOffice.org Calc,,GUI,GNU LGPL,Yes,"January 25, 2011 / 3.3",Cross-platform,Spreadsheet
+54,OpenPlaG,,GUI,GPL,Yes,"June 12, 2018 / 3.5",Any (PHP 5),graph plotter
+55,Orange,,"GUI, Python scripting",GPL,Yes,"September 3, 2017 / 3.5","Linux, Windows, Mac OS X","A visual programming data-flow software suite with widgets for statistical data analysis, interactive data visualization, data mining, and machine learning."
+56,Origin,,"GUI, COM, C/C++ and scripting",proprietary,No,"June 22, 2017 / 2017 SR2",Windows,"Multi-layer 2D, 3D and statistical graphs for science and engineering. Built-in digitizing tool. Auto-recalculation and reporting. Programmable, with access to NAG Numerical Library."
+57,ParaView,,"GUI, Python scripting",GPL,Yes,"June 19, 2018 / 5.5.2","Linux/Unix, Mac OS X, Windows",Parallel scientific and Computational Fluid Dynamics visualizations
+58,PDL,,,Artistic License / GPL,Yes,"May 6, 2018 / 2.019",Perl Data Language,
+59,PGPLOT,,"FORTRAN, C",,No,"February 26, 2001 / 5.2.2","Linux, Mac, Windows","(Fortran) California Institute of Technology, Inactive as of 2001"
+60,ploticus,,"Command line, C",GPL,Yes,May 2013 / 2.42,"Linux, Mac, Windows",plots and charts from data
+61,Plotly,,"GUI, command line Python",Commercial,No,,Any (web-based),"plots and charts in browser, web-sharing and exporting, drag-and-drop data import, Python command line"
+62,plotutils,,"command line, C/C++",GPL,Yes,"September 27, 2009 / 2.6","Linux, Mac, Windows","Collection of command line programs, C/C++ API"
+63,PLplot,,"Ada, C/C++/D, Fortran 77/90, C, C++, Java, Lisp, Lua, OCaml, Octave, Perl, Python, Tcl/Tk",LGPL,Yes,"August 26, 2017 / 5.13.0","Linux, Mac, Windows","Many different output formats: CGM, GIF, Jpeg, Png, Latex, PBM, PDF, Postscript, SVG, XFig, Qt, wxWidgets"
+64,PSPP,,"GUI, command line",GPL,Yes,"August 20, 2017 / 1.0.0","Linux, Mac, Windows",Statistical analysis of sampled data. Free replacement for SPSS.
+65,QtiPlot,,"GUI, Python",proprietary,No,"May 31, 2017 / 0.9.9.11","Linux, Mac, Windows",Python scriptable
+66,R,,Third party,GPL,Yes,"July 2, 2018 / 3.5.1(""Feather Spray"")","Linux, Mac, Windows","In addition to base graphics, has a large number of graphics packages including lattice and ggplot2.[7] Interoperabile with other free software packages."
+67,RAWGraphs,,web tool,Apache,Yes,"June 3, 2021 / 2.0b10",web browsers,vector graphs
+68,ROOT,,"GUI, C++, Python, Ruby",LGPL,Yes,"August 23, 2018 / 6.14.04","Linux, Mac, Windows",De facto standard in high energy physics
+69,RRDtool,,Command line,GPL,Yes,"May 17, 2017 / 1.7.0","Linux, Windows",
+70,S-PLUS,,,Proprietary,No,November 2010 / 8.2,,Statistics
+71,S,,,,,,,Statistics
+72,SAS System,,,Proprietary,No,"July 10, 2013 / 9.4",,Statistics
+73,Scilab,,,CeCILL,Yes,"February 14, 2019 / 6.0.2","Linux, Mac OS X, Windows",Matrix system
+74,"SciPy, NumPy, matplotlib modules for Python",,"Python, GUI, command line",BSD/matplotlib,Yes,"June 21, 2017 / 0.19.1, July 6, 2017 / 1.13.1, May 10, 2017 / 2.0.2","FreeBSD, Linux, Mac OS X, Windows",Extensive numerical and scientific library with MATLAB-style plotting
+75,SOCR,,,,,,,Statistics
+76,Sonic Visualiser,,GUI,GPL,Yes,"August 14, 2018 / 3.1.1","Linux, MacOS, Windows",
+77,SPSS,,"GUI, command line",Proprietary,No,"August 8, 2017 / 25.0",,Statistics
+78,Stata,,,Proprietary,No,"June 6, 2017 / 15.0",,Statistics
+79,Statgraphics,,GUI,Proprietary,No,July 2015 / 17.1.08,Windows,"Statistical software package for exploratory data analysis, dynamic data visualization, statistical modeling, design of experiments, time series forecasting, quality improvement and Six Sigma."
+80,Statistical Lab,,,,,"May 2, 2011 / 3.81",,
+81,Systat,,,Proprietary,No,,,Statistics
+82,SymPy,,,BSD,Yes,"September 14, 2018 / 1.3","Linux, Mac OS X, Windows",Python library for computer algebra and symbolic mathematics
+83,Sysquake,,"GUI, command line",Proprietary,No,"November 5, 2013 / 5.0","Linux, Mac OS X, Windows","MATLAB compatible, interactive graphics"
+84,SciDAVis,,"GUI, Python",GPL,Yes,"June 4, 2018 / 1.23","Linux, Mac, Windows","Qt4-based GUI, Python scriptable"
+85,SigmaPlot,,GUI,proprietary,No,2014 / 13.0.0,Windows,
+86,TAChart,,Charting library,modified LGPL,Yes,"November 13, 2016 / 1.6.2","Linux, Mac OS X, Windows",Very flexible charting component for Lazarus / Free Pascal.
+87,Tableau,,GUI,Proprietary,No,,Windows,Spreadsheet
+88,Tecplot,,GUI,proprietary,No,2016 / 2016,"Linux, Mac, UNIX, Windows",Computational Fluid Dynamics
+89,Teechart,,Charting library,Open Source,Yes,2018,"Windows, macOS, Linux, iOS, Android","Full set of chart types, maps & gauges, interactive, real-time, PNG, JPEG export, cross-browser support, integration with WordPress, Drupal, Node.js, Joomla, TypeScript, NuGet among others."
+90,think-cell chart,,GUI,proprietary,No,,Windows,"Support for waterfall, Marimekko and Gantt charts. Direct integration into Microsoft PowerPoint."
+91,Veusz,,"GUI, Python, command line",GPL,Yes,"July 22, 2018 / 3.0.1","Mac, Unix, Windows","Create publication-quality PS/PDF plots, Python scripting and plugin interface"
+92,Visifire,,Independent of server side scripting,Proprietary,No,"June 5, 2014 / 5.1.7-0","Mac, Windows",
+93,VisIt,,"GUI, C++, Python, and Java",BSD,Yes,May 2018 / 2.13.2,"Linux, Mac, Windows",Designed to handle very large data sets
+94,Webix,,JavaScript library,GPLV3/Proprietary[8],Yes,"June 27, 2017 / 4.4","Cross platforms, cross browsers",JavaScript/HTML5 based; More than 75 widgets and controls; Maps; Charts; DataTables; Organograms; Gauge charts
+95,World Programming System (WPS Analytics),,"GUI, command line",Proprietary,No,March 2020 / v4.2,"AIX, Linux, Linux for Arm8 64-bit (AArch64), macOS, PowerLinux, POWER/System p/pSeries (LE), Windows, Linux for System z, z/OS","Statistics. Handles very large data sets. Supports mixing Python, R, SAS and SQL languages within in a single user program"
+96,XGraph,,"GUI, command line",Proprietary,No,April 2014 / v4.30,"Linux, Windows",Interactive and batch 2D data file plotting
+97,Zoho Office Suite,,GUI (web based),Proprietary,No,,Any (web-based application),Online spreadsheet

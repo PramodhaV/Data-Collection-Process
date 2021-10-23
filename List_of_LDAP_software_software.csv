@@ -1,0 +1,31 @@
+,Unnamed: 0,Developer,Software license[a],Comments
+0,389 Directory Server (formerly Fedora Directory Server),Red Hat,GPL linking exception[8] with exception to allow linking to non-GPL[9],
+1,Active Directory,Microsoft,Proprietary,
+2,Authorized Entities Directory (Æ-DIR),Michael Ströder,Apache License 2.0,based on OpenLDAP with additional tools
+3,Apache Directory Server,Apache Software Foundation,Apache License 2.0,
+4,Apple Open Directory - A fork of the OpenLDAP project,Apple Inc.,Proprietary[10],
+5,"BEJY LDAP Server,[11] a Java LDAP Server.","Stefan ""Bebbo"" Franke",GPL,
+6,CA Directory,CA Technologies,Proprietary,
+7,Critical Path Directory Server,Critical Path,Proprietary,Now owned by Synchronoss Technologies.
+8,Directory services - A fork of the OpenDJ project,ForgeRock,Proprietary,
+9,DirX Directory,Atos (ex-Siemens),[citation needed],
+10,FreeIPA,Red Hat (using 389 Directory Server),GPL,
+11,IBM Tivoli Directory Server,IBM,Proprietary,
+12,"ldapjs,[12] implementation of LDAP in JavaScript on Node.js.",Mark Cavage[13],MIT License,
+13,"Mandriva Directory Server, now part of Mandriva Management Console",Mandriva development team,GPL,
+14,Nexor Directory,[citation needed],[citation needed],
+15,NetIQ eDirectory,NetIQ,Proprietary,Successor to eDirectory and NDS
+16,OpenBSD ldapd[14],"Martin Hedenfalk, OpenBSD",ISC,
+17,OpenDJ,Open Identity Platform Community,CDDL,"A fork of the OpenDS project developed by ForgeRock, until 2016,[15] now maintained by OpenDJ Community"
+18,OpenDS,Sun Microsystems,CDDL,"CDDL-licensed product no longer maintained, now Oracle Unified Directory."
+19,OpenLDAP,Kurt Zeilenga and others (based on Slapd),OpenLDAP Public License,
+20,Oracle Directory Server Enterprise Edition[16],"Oracle, based on Sun DSEE",Proprietary,
+21,Oracle Internet Directory,Oracle,Proprietary,
+22,Oracle Unified Directory,"Oracle, based on OpenDS",Proprietary,
+23,PingDirectory (formerly UnboundID Directory Server[17]),Ping Identity,Proprietary,Based on OpenDS. UnboundID was purchased by Ping
+24,RadiantOne,Radiant Logic,[citation needed],
+25,Red Hat Directory Server,Red Hat,GPL plus exception,Commercial version of 389 Directory Server
+26,ReOpenLDAP[18],Peter-Service R&D,AGPL and OpenLDAP Public License,fork of OpenLDAP with improved stability for highload and multi-master clustering
+27,Samba4 - Active Directory compatible Domain Controller,Samba Team,GPLv3,
+28,Slapd - Standalone LDAP Daemon,University of Michigan,Free[citation needed],superseded by OpenLDAP[19]
+29,Sun Java System Directory Server,Sun Microsystems,[citation needed],no longer maintained

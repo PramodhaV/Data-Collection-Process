@@ -1,0 +1,25 @@
+,Name,Developer,Licensing,Maintained?,Platform,Last version release date
+0,DFSee,Jan van Wijk,Proprietary software,Yes,"DOS, Linux, macOS, OS/2, Windows NT family","July 31, 2018"
+1,Disk Director,Acronis,Proprietary software,Yes,Windows,
+2,Disk Utility,Apple,Proprietary software,Yes,macOS,
+3,diskpart,Microsoft,Proprietary software,Yes,Windows NT family,
+4,fdisk (FreeDOS),Brian Reifsnyder,Free software,Yes,FreeDOS,
+5,fdisk (Microsoft),Microsoft,Proprietary software,Yes,"MS-DOS, Windows",
+6,fdisk (OS/2),IBM,Proprietary software,Yes,OS/2,
+7,fdisk (Unix-like),util-linux project,Free software,Yes,Unix-like,
+8,FIPS,Arno Schäfer,Free software,No,MS-DOS,
+9,GNOME Disks,Red Hat,Free software,Yes,Linux,
+10,"GNU Parted CLI-only (GUIs: Gparted, QtParted)",The GParted Project,Free software,Yes,Linux,
+11,GParted (GUI for GNU Parted),The GParted Project,Free software,Yes,Linux (Live CD is independent),"December 13, 2018"
+12,gdisk (GPT fdisk),Roderick W. Smith,Free software,Yes,"Linux, macOS, Windows","July 5, 2018"
+13,KDE Partition Manager,Volker Lanz,Free software,Yes,Linux,
+14,Logical Disk Manager,Microsoft,Proprietary software,Yes,Windows NT family,
+15,ntfsresize,Szabolcs Szakacsits,Free software,Yes,Linux,
+16,Parted Magic,Parted Magic LLC,Proprietary software,Yes,Linux,
+17,Partition Commander,VCOM Products,Proprietary software,No,Windows,
+18,PartitionMagic,Symantec,Proprietary software,No,Windows,"May 5, 2004"
+19,Partition Manager,Paragon,Proprietary software,Yes,Windows,"March 10, 2015"
+20,Partition Master,EaseUS,Proprietary software,Yes,Windows,"August 14, 2018"
+21,QtParted (GUI for GNU Parted),Vanni Brutto,Free software,No,Linux,
+22,Ranish Partition Manager,Mikhail Ranish,Freeware,No,"MS-DOS, PC DOS, DR-DOS or FreeDOS",
+23,Solaris format utility,Sun Microsystems,Proprietary software,No,Solaris,

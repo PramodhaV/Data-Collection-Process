@@ -1,0 +1,37 @@
+,Tool name,Description language,License
+0,A-A-P,recipe,GNU GPL
+1,Ant,XML,Apache License 2.0
+2,AnthillPro,"Wraps Make, Ant, Maven, MsBuild, Nant, etc. for controlled build, deploy, test processes.",Discontinued
+3,Bamboo,continuous integration,Trialware
+4,Bazel,"BUILD/Starlark, a Python-like DSL",Apache License 2.0
+5,BuildAMation,"C# for build scripts, XML for high level dependencies",New BSD License
+6,Buildr,Ruby,Apache License 2.0
+7,Boot,Clojure,Eclipse Public License
+8,Capistrano,XML,MIT License
+9,CMake,uses CMakeLists.txt file,New BSD License
+10,Collective Knowledge Framework,Python scripts with JSON API and JSON meta-description,New BSD License
+11,Continuum,?,Apache License 2.0
+12,CruiseControl,XML,BSD-style license
+13,Dub,"JSON, SDL",MIT License
+14,FinalBuilder,"graphical IDE with support for Ant/NAnt, MSBuild, JScript, VBScript, IronPython, PowerShell",Trialware
+15,Gradle,Groovy-based DSL; Kotlin-based DSL,Apache License 2.0
+16,Jenkins,continuous integration,MIT License
+17,Homebrew,Ruby,Simplified BSD License
+18,Leiningen,Clojure,Eclipse Public License
+19,make,uses Makefile,Same as the bundling OS
+20,Maven,Project Object Model,Apache License 2.0
+21,Meson build system,custom DSL,Apache License 2.0
+22,Mill,Scala,MIT License
+23,MPW Make,?,Freeware
+24,MSBuild,XML,MIT License
+25,NAnt,XML,GNU GPL
+26,nmake,uses Makefile,Freeware
+27,Open Build Service,"uses various package and image description formats (spec, dsc, ARCH, kiwi)",GNU GPL
+28,Perforce Jam,uses Jamfile,Discontinued
+29,Rake,Ruby,MIT License
+30,sbt (Simple Build Tool),Scala-based DSL,New BSD License
+31,SCons,Python,MIT License
+32,Team Foundation Server,"MSBuild, Windows Presentation Foundation, JSON - REST interfaces, Programmatic (Can generate definitions through code)",Trialware
+33,Tweaker (build tool),"Any (Ant, bash, batch, C, Erlang, Java, SQL, and VBScript by default, with 3rd party interface for extensions)",GNU GPLv3
+34,Visual Build,XML,Trialware
+35,Waf,Python,New BSD License

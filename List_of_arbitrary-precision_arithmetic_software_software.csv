@@ -1,0 +1,42 @@
+,Package-library name,Number type,Language,License
+0,Boost Multiprecision Library,"Integers, rationals, floats, and complex",C++ and backends using GMP/MPFR,Boost
+1,TTMath,"Integers, floats",C++,BSD
+2,LibBF,"Integers, floats",C,MIT
+3,BeeNum,"Integers, rationals",C++,MIT
+4,longer-int,Integers,C,GPL
+5,GNU Multi-Precision Library (and MPFR),"Integers, rationals, and floats",C and C++ with bindings,LGPL
+6,CLN,"Integers, rationals, floats, and complex",C++,GPL
+7,ARPREC,"Integers, floats, and complex",C++,BSD-type
+8,"MAPM, MAPM","Integers, decimal and complex floats",C (bindings for C++),Freeware
+9,MPIR (mathematics software),"Integers, rationals, and floats",C and C++ with bindings,LGPL
+10,CORE,"Integers, rationals, and floats",C++,Freeware
+11,LEDA,"Integers, rationals, and floats",C++,Freeware
+12,CGAL,"Integers, rationals, and floats",C++,LGPL
+13,GeometricTools,Integers and rationals,C++,Boost
+14,LibTomMath,Integers,C,Public Domain or WTFPL (dual-licensed)
+15,libgcrypt,Integers,C,LGPL
+16,OpenSSL,Integers,C,Apache License v2
+17,Arbitraire,Floats,C,MIT License
+18,mbed TLS,Integers,C,Apache License v2 and GPL
+19,JScience,"Integers, rationals, and floats",Java,BSD-type
+20,JAS,"Integers, rationals, and complex numbers",Java,LGPL
+21,JLinAlg,"Decimals, rationals, and complex numbers",Java,LGPL
+22,Apfloat,"Integers, rationals, floats, and complex numbers","Java, C++",LGPL
+23,MPArith,"Integers, rationals, floats, and complex numbers","Pascal, Delphi",Zlib
+24,InfInt,Integers,C++,MPL
+25,bigz,"Integers, rationals",C (bindings for C++),BSD-type
+26,C++ BigInt Class,Integers,C++,GPL
+27,ramp,Integers,Rust,Apache License v2
+28,float,Floats,Rust,Apache License v2
+29,fgmp,Integers,C,Public Domain
+30,imath,"Integers, rationals",ANSI C,MIT
+31,hebimath,"Integers, rationals, naturals, floats",C (C99),MIT
+32,bsdnt,"Integers, naturals",C,BSD (2-clause)
+33,integer-simple,Integers,Haskell,BSD (3-clause)
+34,bigints,Integers,Nim,MIT
+35,libzahl (WIP),Integers,C,ISC
+36,decimal,Decimals,Go,BSD (3-clause)
+37,mpmath,Floats and complex,Python,BSD
+38,NumEval,"Integers, rationals","PHP, C#",MIT License
+39,Computable Reals,Computable Reals,Common Lisp,Freeware
+40,libmpdec and libmpdec++,Decimal floats,C and C++,BSD (2-clause)

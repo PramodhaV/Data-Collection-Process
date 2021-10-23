@@ -1,0 +1,10 @@
+,Name,Language,Type,Last Updated,License,Description
+0,CPN Tools,BETA,Application,"February 1, 2015 (v4.0.1)[14]",GPLv2,A tool to analyse logistics/queuing models in all types of applications.
+1,DESMO-J,Java,Library,"November 30, 2015 (v2.5.1c)[15]",Apache 2.0,"A framework for discrete-event simulation in Java, supporting hybrid event/process models and providing animation in 2D and 3D."
+2,Facsimile,Scala,Library,"April 29, 2009[16]",LGPLv3,A discrete-event simulation/emulation library.
+3,PowerDEVS,C++,Application,"September 18, 2013 (v933)[17]","AFL, GPLv2",An integrated tool for hybrid systems modeling and simulation based on the DEVS formalism.
+4,Ptolemy II,Java,Library,"December 17, 2014 (v10.0.1)[18]",BSD,A software framework supporting experimentation with actor-oriented design.[18]
+5,SIM.JS,JavaScript,Library,"January 16, 2012 (v0.26)[19]",LGPL,SIM.JS is a general-purpose Discrete Event Simulation library written entirely in JavaScript. Runs in browser and a GUI-based modeling tool is supported.
+6,SimPy,Python,Library,"April 15, 2020 (4.0.1)[20]",MIT,SimPy is a process-based discrete-event simulation framework based on standard Python.[21]
+7,Simula,Simula,Language,"June 1, 1967",,A programming language designed specifically for simulation.
+8,SystemC,C++,Library,"November 15, 2018 (v2.3.3)[22]",Apache 2.0,A set of C++ classes and macros which provide an event-driven simulation kernel.

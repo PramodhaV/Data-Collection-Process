@@ -1,0 +1,14 @@
+,Web testing tools,Web browser based (model),Scriptable,Scripting language,Recorder,Multiple domain,Frames
+0,eggPlant Functional,"Yes (IE, Firefox, Safari, Opera, Chrome)",Yes,SenseTalk,Yes,,
+1,iMacros,"Yes (Firefox, Chrome, IE)",Yes,iMacro Script,Yes,Yes,Yes
+2,Katalon Studio,"Yes (IE, Firefox, Chrome, Safari, Opera and any modern browser)",Yes,Groovy,Yes,Yes,Yes
+3,Ranorex Studio,"Yes(Chrome, Firefox, Safari, IE)",Yes,"C#, VB.NET",Yes,Yes,Yes
+4,Sahi,"Yes (IE, Firefox, Chrome, Safari, Opera and any modern browser)",Yes,Sahi Script,Yes,Yes,Yes
+5,Selenium,"Yes (IE, Firefox, Chrome, Safari, Opera, Edge)",Yes,"Ruby, Java, NodeJS, PHP, Perl, Python, C#, Groovy",Firefox and Chrome,Yes,Yes
+6,SOAtest,Yes,Yes,"Python, JavaScript, Java",Yes,Yes,Yes
+7,TestComplete,"Yes (IE, Firefox, Chrome)",Yes,"VBScript, JScript, C++Script, C#Script, DelphiScript, Python",Yes,Yes,Yes
+8,Test Studio,"Yes(Chrome, Firefox, Safari, IE)",Yes,"C#, VB.NET",Yes,Yes,Yes
+9,Tricentis Tosca[1],"Yes (Chrome, Firefox, IE, Edge)",Yes,"C#, VB.Net",Yes,Yes,Yes
+10,WatiN,"Yes(IE, Firefox)",Yes,"C#, ability to run JavaScript from C# calls",IE/FF,,Yes
+11,Watir,"Yes (IE, Firefox, Chrome, Safari, Opera, Edge)",Yes,Ruby,No,Yes,Yes
+12,HP-UFT,"Yes (IE, Firefox, Chrome, Safari, Opera, Edge)",Yes,VBScript,Yes,Yes,Yes

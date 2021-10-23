@@ -1,0 +1,11 @@
+,Name,License,Windows,Linux,3D,GUI,Convergence detector,Mesher,Algorithm,Area of application
+0,NEC,open source,Yes,Yes,Yes,In some distributions,Yes,manual,MoM,"Antenna modeling, especially in Amateur Radio. Widely used as the basis for many GUI-based programs on many platforms (including popular distributions such as 4nec2 and EZnec on Windows, xnec2c on Linux, and cocoaNEC for Mac OS X). Version 2 is open source, but Versions 3 and 4 are commercially licensed."
+1,Momentum,commercial,Yes,Yes,Partial,Yes,Yes,equidistant,MoM,"For passive planar elements development, integrated into Keysight EEsof Advanced Design System."
+2,HFSS,commercial,Yes,Yes,Yes,Yes,Yes,Automatic adaptive,FEM FDTD PO Hybrid FEBI MoM Eigen Mode,"For antenna/filter/IC packages, Radome,RFIC,LTCC,MMIC,Antenna Placement,Wave guides, EMI,FSS,Metamaterial,Composite Material, RCS-Mono and Bi development."
+3,XFdtd,commercial,Yes,Yes,Yes,Yes,Yes,Automatic Project Optimized,FDTD,"RF and microwave antennas, components, and systems, including mobile devices. MRI coils, radar, waveguides, SAR validation."
+4,AWR Axiem,commercial,Yes,Yes,Yes,Yes,Yes,"Automatic, Hybrid",MoM,"PCBs, Multi-Layer PCBs, LTCC, HTCC, On-Chip Passives, Printed Antennas. Integrated into Microwave Office"
+5,AWR Analyst,commercial,Yes,Yes,Yes,Yes,Yes,Automatic and Adaptive,FEM,"3D structurers(including 3D Antennas), Waveguides, 3D filters, PCBs, Multi-Layer PCBs, LTCC, HTCC, On-Chip Passives, Printed Antennas. Integrated into Microwave Office"
+6,JCMsuite,commercial,Yes,Yes,Yes,Yes,Yes,"Automatic, error-controlled",FEM,"Nano- and micro-photonic applications (light scattering,[1] waveguide modes,[2] optical resonances[3])."
+7,COMSOL Multiphysics,commercial,Yes,Yes,Yes,Yes,Yes,Automatic,"FEM, Boundary element method, Ray Tracing",General Purpose
+8,FEKO,commercial,Yes,Yes,Yes,Yes,Yes,Automatic or manual; adaptive,MoM FEM FDTD MLFMM PO RL-GO UTD,"For antenna analysis, antenna placement, windscreen antennas, microstrip circuits, waveguide structures, radomes, EMI, cable coupling, FSS, metamaterials, periodic structures, RFID"
+9,Elmer FEM,open source (GPL),Yes,Yes,Yes,Yes,Yes,"manual, or can import other mesh formats",FEM,"General Purpose, includes 2D and 3D magnetics solvers, both static and harmonic. 3D solver is based on the Whitney AV formulation of Maxwell's equations."

@@ -1,0 +1,11 @@
+,Dock application,Platform(s),Software license,Notes
+0,OS X Dock,OS X,Proprietary,The standard dock bundled with OS X.
+1,DragThing,OS X,Proprietary,Shareware Dock replacement for OS X with many features.
+2,Appetizer,Microsoft Windows,Open Source,Customizable dock with support for plugins and skins.
+3,ObjectDock,Microsoft Windows,Proprietary (Freeware and Shareware),Copy of the OS X dock for Windows offered in both Freeware and Shareware forms. Support for docklets (plugins).
+4,RocketDock,Microsoft Windows,Proprietary,Copy of the OS X dock for Windows. Support for docklets (plugins).
+5,SliderDock,Microsoft Windows,Open Source,3D wheel shaped application launcher which focus on rotation to access an application without moving the mouse.
+6,Avant Window Navigator,Unix-like,Open Source,Copy of the OS X dock for Unix-like systems. Support for docklets (plugins).
+7,GNOME Do,Unix-like,Open Source,"Application launcher, with Dock option. Support for docklets (plugins)."
+8,gDesklets,Unix-like,Open Source,GNOME program which provides support for desktop widgets. Support for docklets (plugins).
+9,Docky,Linux,Open Source,Copy of the OS X dock for Unix-like systems. Support for docklets (plugins).

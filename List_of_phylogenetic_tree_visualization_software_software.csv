@@ -1,0 +1,8 @@
+,Name,Language,Description,Citation
+0,ggtree,R,An R package for tree visualization and annotation with grammar of graphics supported,[36]
+1,jsPhyloSVG,Javascript,"open-source javascript library for rendering highly-extensible, customizable phylogenetic trees; used for Elsevier's interactive trees",[37][38]
+2,PhyD3,Javascript,"interactive phylogenetic tree visualization with numerical annotation graphs, with SVG or PNG output, implemented in D3.js",[39]
+3,phylotree.js,Javascript,"phylotree.js is a library that extends the popular data visualization framework D3.js, and is suitable for building JavaScript applications where users can view and interact with phylogenetic trees",[40]
+4,PhyloPlots.jl,Julia,"PhyloPlots.jl is a julia package for plotting phylogenetic trees and networks, integrated with PhyloNetworks.jl",[41]
+5,Phytools,R,Phylogenetic Tools for Comparative Biology (and Other Things) based in R,[42]
+6,toytree,Python,Toytree: A minimalist tree visualization and manipulation library for Python,[43]

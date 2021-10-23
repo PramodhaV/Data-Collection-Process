@@ -1,0 +1,40 @@
+,Product name,Audio,Entiredesktop,OpenGL,Direct3D,Editing,Output
+0,ActivePresenter[7],Yes,Yes,No,Yes,Yes,"Video: AVI, FLV, MKV, MP4, SWF, WebM, WMVImage sequence: PNG, JPEGSlideshow: PowerPoint, HTMLScripted animation: SWF, HTML5, SCORM"
+1,ActivePresenter free edition[7],Yes,Yes,No,No,Yes,"Video: AVI, MKV, MP4, SWF, WebM, WMVImage sequence: PNG, JPEG"
+2,Adobe Captivate[8],Yes,Yes,?,?,Yes,"SWF, EXE, MP4"
+3,Adobe Presenter Video Express[9],Yes,Yes,?,?,Yes,MP4
+4,Bandicam,Yes,Yes,Yes,Yes,No,"AVI, MP4"
+5,BB FlashBack,Yes,Yes,?,?,Yes,"AVI, FLV, SWF[10]"
+6,BB FlashBack express,Yes,Yes,?,?,No,"AVI, FLV, SWF, MP4 (H.264 or MPEG-4 ASP), WMV, Animated GIF, PowerPoint slideshow, self-extracting EXE[10]"
+7,CamStudio,Yes,Yes,?,?,Yes,"AVI, SWF"
+8,Camtasia (Windows),Yes,Yes,Yes,Yes,Yes,"MP4, WMV, AVI, Animated GIF"
+9,Camtasia (Mac),Yes,Yes,Yes,Yes,Yes,"MP4, MOV, Animated GIF"
+10,CloudApp,Yes,Yes,No,No,Yes,?
+11,Debut,Yes,Yes,?,?,Yes,"AVI, FLV, MKV, MP4, WebM, WMV, 3GP, ASF, DV, MOV, MPG, OGV"
+12,FFmpeg with a plug-in,Depends,Depends,Depends,Depends,No,"cf. FFmpeg § Codecs, formats and protocols supported"
+13,Fraps,Yes,Yes,Yes,Yes,No,FPS1 in AVI
+14,Freeseer,Yes,Yes,?,?,No,Ogg
+15,HyperCam,Yes,Yes,?,?,No,"AVI, WMV"
+16,Jing,Yes,Yes,?,?,No,SWF
+17,Microsoft Expression Encoder,Yes,Yes,Yes,No,Yes,
+18,mimoLive,Yes,Yes,Yes,No,Yes,"MOV ProRes 444, MP4"
+19,Nero Vision,Yes,?,?,?,Yes,
+20,Nvidia Shadowplay,Yes,Yes,No,Yes,No,Video: MP4Image sequence: PNG
+21,Open Broadcaster Software,Yes,Yes,Yes,Yes,No,"Simple mode: FLV, MP4, MOV, MKV, TS, HLSAdvanced mode: Any format supported by libavformat"
+22,Pixetell,Yes,Yes,Yes,Yes,Yes,
+23,QuickTime X,Yes,Yes,?,?,No,
+24,recordMyDesktop,Yes,Yes,?,,No,Theora in Ogg
+25,Screencam,Yes,Yes,Yes,Yes,Yes,
+26,ScreenFlow,Yes,Yes,Yes,,Yes,"ProRes, MP4, GIF, AAC"
+27,ShareX,Yes,Yes,No,No,No,"AVI, MP4, GIF"
+28,SimpleScreenRecorder,Yes,Yes,Yes,,No,Formats supported by libavformat
+29,Snagit,Yes,Yes,Yes,Yes,Yes,MP4
+30,Snapz Pro X,Yes,Yes,?,?,No,
+31,VirtualDub,Yes,?,?,?,Yes,AVI
+32,VLC,Yes,Yes,Yes,?,Yes,
+33,Windows Media Encoder,Yes,Yes,?,?,No,
+34,Wink,Yes,Yes,?,No,Yes,"SWF, PDF"
+35,Xbox (Game DVR) /Xbox Game Bar,Yes,No,?,?,No,MP4
+36,XVidCap,Yes,?,?,,No,
+37,XSplit Broadcaster,Yes,Yes,Yes,Yes,Yes,"MP4, FLV"
+38,Product name,Audio,Entiredesktop,OpenGL,Direct3D,Editing,Output

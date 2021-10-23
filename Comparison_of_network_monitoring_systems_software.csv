@@ -1,0 +1,38 @@
+,Name,IP SLA Reports,Logical Grouping,Trending,Trend Prediction,Auto Discovery,Agentless,SNMP,Syslog,Plugins,Triggers / Alerts,MIB Compiler,WebApp,Distributed Monitoring,Inventory,Platform,Data Storage Method,License,Maps,Access Control,IPv6,Latest release date,Latest release version
+0,Cacti,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Full Control,Yes,Yes,PHP,"RRDtool, MySQL",GNU GPL,Via plugin,Yes,Yes,2019-06-07,1.2.4
+1,Checkmk,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Full Control,Yes,Yes,"C, Python",RRDtool,GNU GPL,Yes,Yes,Yes,2020-08-19,1.6.0p16
+2,collectd,No,No,No,No,Push model;multicast possible,Yes,Yes,Yes,Yes,Yes,No,Viewing,Yes,No,C,RRDtool,GNU GPL,No,Apache ACL,Yes,2019-11-13,5.10
+3,FreeNATS,Yes,Yes,No,No,Yes,No,No,Via plugin,Yes,In PHP Code,No,Full Control,No,No,PHP,MySQL,GNU GPL,No,Yes,Un­known,2011-07-09,1.13.3b
+4,Ganglia,No,Yes,Yes,No,Via gmond check in,No,Via plugin,No,Yes,No,No,Viewing,Yes,Un­known,"C, PHP",RRDtool,BSD,Yes,No,Un­known,2016-06-14,3.7.2
+5,Icinga,Via plugin,Yes,Yes,No,Via plugin,Yes,Via plugin,Via plugin,Yes,Yes,No,Full Control,Yes,Via plugin,C[1],"MySQL, PostgreSQL, Oracle Database",GNU GPL,Un­known,Yes,Yes,2020-12-01,2.12.2
+6,InterMapper,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Viewing,Yes,Yes,"Windows, Linux & Mac OS",PostgreSQL,"Limited free, Commercial",Yes,Yes,Yes,2017-07,6.1.5
+7,isyVmon,Yes,Yes,Yes,No,Via plugin,No,Yes,Yes,Yes,Yes,No,Full Control,Yes,Via plugin,PHP,"RRDtool, MySQL","Limited free, Commercial",Via plugin,Yes,Yes,Un­known,Un­known
+8,Munin,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Partial,No,Viewing,Via nodes,Un­known,Perl,RRDtool,GNU GPL,Un­known,Un­known,Yes,2021-02-22,2.0.67
+9,Nagios,Via plugin,Yes,Yes,No,Via plugin,Yes,Via plugin,Via plugin,Yes,Yes,No,Yes,Yes,Via plugin,C,"Flat file, SQL (via ndoutils), MySql (Via Nconf)",GNU GPL,Yes,Yes,Yes[2],2020-04-28,4.4.6[3]
+10,NeDi,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,"Perl, PHP","Pg, MySQL, RRDTool, MariaDB","GPL3, Commercial",Yes,Yes,Yes,2016-04,1.6[4]
+11,Netdisco,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Perl,PostgreSQL,BSD,Yes,Yes,Yes,2021-02,2.047005[5]
+12,NetXMS,Un­known,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"C, Java","PostgreSQL, PostgreSQL with TimescaleDB, MariaDB, MySQL, MS SQL, Oracle, SQLite",GNU GPL,Yes,Yes,Yes,2021-02-17,3.8.120
+13,NeuralStar,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Full Control,Yes,Yes,Un­known,MS SQL,Commercial,Yes,Yes,Yes,Un­known,Un­known
+14,Octopussy,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Full control,No,Yes,"Perl, ASP",MySQL,GNU GPL,No,Yes,No,2017-06-03,1.0.16
+15,op5 Monitor,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Via plugin,"C, PHP","Flat file, SQL","Limited free, Commercial",Yes,Yes,Yes,Monthly,7.3.0
+16,OpenKBM,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Un­known,Proprietary with JDBC support,Commercial,Yes,Yes,Yes,Un­known,Un­known
+17,OpenNMS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Full Control,Yes,Yes,Java,"JRobin / RRDTool / Apache Cassandra, PostgreSQL",AGPLv3,Yes,Yes,Yes,2021-05-11,27.2.0
+18,Openview,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Via integration,Yes,Yes,No,Full Control,Yes,Yes,"C++, Java, Perl","PostgreSQL, Oracle Database",Commercial,Yes,Yes,Yes,2020-12-24,2020.11
+19,OPNET's AppResponse Xpert,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,"Viewing, Acknowledging, Reporting",Yes,No,Un­known,Un­known,Commercial,Yes,Yes,Un­known,Un­known,Un­known
+20,OSI NetExpert,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,"Java, C++",Oracle,Commercial,Yes,Yes,Yes,2013-04,10.0
+21,PacketTrap,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,"Viewing, Reporting",Yes,Yes,Un­known,SQL,Commercial,Yes,Yes,Yes,Un­known,Un­known
+22,Pandora FMS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Full Control,Yes,Yes,"Perl, PHP, C++, JavaScript","MySQL, Oracle","GPLv2, Commercial",Yes,Yes,Yes,2017-07,7.0 NG 707
+23,Performance Co-Pilot,No,Yes,Yes,No,Yes,"Optional, Limited",Yes,Yes,Yes,Yes,No,Viewing,Yes,Yes,"C Perl, Python, POSIX, MinGW",Flat file,"GPL, LGPL",No,Yes,Yes,2016-11-15,3.11.6
+24,PRTG,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Windows,Flat file,"Limited free, Commercial",Yes,Yes,Yes,2020-11-24,20.4.64
+25,ScienceLogic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Full Control,Yes,Yes,Python,MySQL,Commercial,Yes,Yes,Yes,Un­known,Un­known
+26,SevOne,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Full Control,Yes,Yes,"C, C++, PHP",MySQL,Commercial,Yes,Yes,Yes,2018-09,5.7.2.4[6]
+27,Shinken,Via plugin,Yes,Yes,No,Yes,Yes,Via plugin,Via plugin,Yes,Yes,No,"Viewing, Acknowledging, Reporting",Yes,Via plugin,Python,"Flat file, MySQL, Oracle, Graphite, Sqlite, MongoDB",AGPL,Yes,Yes,Yes,2016-03-10,2.4.3
+28,SolarWinds,Yes,Yes,Yes,Yes,Yes,Partial,Yes,Yes,Yes,Yes,No,Full Control,Yes,Yes,.NET,SQL,Commercial,Yes,Yes,Yes,Un­known,Un­known
+29,Spiceworks,Un­known,Yes,Un­known,Un­known,Yes,Yes,Un­known,Un­known,Yes,Yes,Un­known,Un­known,Un­known,Yes,PHP,Sqlite,Un­known,Yes,Un­known,Un­known,2018-03-21,7.5.00107
+30,CA Spectrum,Yes,Yes,Perf. AddOn,Perf. AddOn,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"C++, Java, JavaScript","Sleepycat-QSL, MySQL, InfluxDB","Commercial, per Device",Yes,Yes,Yes,2020-06-29,20.2
+31,Xymon/Hobbit,Yes,Yes,Yes,No,Via plugin,Via plugin,Via plugin,No,Yes,Yes,No,"Viewing, Acknowledging, Reporting",Yes,Via plugin,"C, Shell","Flat file, RRDTool, MySQL via plugin",GNU GPL,Via plugin,Apache ACL,No,2019-09-05,4.3.30
+32,Vigilo NMS,Yes (NMS and NOC editions),Yes,Yes,Yes via integration,Yes via integration,Yes,Yes,Yes via Prelude SIEM,Yes,Yes,No,"Viewing, Acknowledging, Reporting",Yes (NMS and NOC editions),Yes via GLPI,"Python, Perl","PostgreSQL, RRDtool","Free (GPLv2) OSS edition, Commercial NOC/NMS editions",Yes (NMS and NOC editions),Yes (NMS and NOC editions),Via plugin,2017-09-14,4.1.0
+33,Zabbix,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Full Control,Yes,Yes,"C, PHP","Oracle, MySQL, PostgreSQL, IBM DB2, SQLite",GNU GPL,Yes,Yes,Yes,2021-05-14,5.4.0[7]
+34,Zenoss Core,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Full Control,Yes,Yes,"Python, Java","ZODB, MariaDB, Apache HBase","Free Core GPL, Commercial Enterprise",Yes,Yes,Yes,2018-01-09,6.1.0
+35,ZIS-System,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Full Control,Yes,Yes,Windows,MariaDB,Commercial,Yes,Yes,Yes,2020-02-01,5.8
+36,Name,IP SLA Reports,Logical Grouping,Trending,Trend Prediction,Auto Discovery,Agentless,SNMP,Syslog,Plugins,Triggers / Alerts,MIB Compiler,WebApp,Distributed Monitoring,Inventory,Platform,Data Storage Method,License,Maps,Access Control,IPv6,Latest release date,Latest release version

@@ -1,0 +1,22 @@
+,Process,Description
+0,init[1],"The Unix program which spawns all other processes. As of 2016, for major Linux distributions, it has been replaced by systemd.[2]"
+1,biod[3],Works in cooperation with the remote nfsd to handle client NFS requests.
+2,crond[1],"Time-based job scheduler, runs jobs in the background."
+3,dhcpd,Dynamically configure TCP/IP information for clients.
+4,fingerd,"Provides a network interface for the finger protocol, as used by the finger command."
+5,ftpd[1],Services FTP requests from a remote system.
+6,httpd,Web server daemon.
+7,inetd[4],"Listens for network connection requests. If a request is accepted, it can launch a background daemon to handle the request, was known as the super server for this reason. Some systems use the replacement command xinetd."
+8,lpd,The line printer daemon that manages printer spooling.
+9,nfsd[3],"Processes NFS operation requests from client systems. Historically each nfsd daemon handled one request at a time, so it was normal to start multiple copies."
+10,ntpd,Network Time Protocol daemon that manages clock synchronization across the network. xntpd implements the version 3 standard of NTP.
+11,portmap/rpcbind,Provides information to allow ONC RPC clients to contact ONC RPC servers
+12,sshd,Listens for secure shell requests from clients.
+13,sendmail,SMTP daemon.
+14,swapper,Copies process regions to swap space in order to reclaim physical pages of memory for the kernel. Also called sched.
+15,syslogd,System logger process that collects various system messages.
+16,syncd,Periodically keeps the file systems synchronized with system memory.
+17,systemd,"Replacement of init, the Unix program which spawns all other processes."
+18,xfsd,Serve X11 fonts to remote clients.
+19,vhand,"Releases pages of memory for use by other processes. Also known as the ""page stealing daemon"""
+20,ypbind,Find the server for an NIS domain and store the information in a file.
